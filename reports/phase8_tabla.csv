@@ -1,0 +1,1504 @@
+video,t,persona,condicion,clase_real,pred_cruda,confianza,comando_aceptado,motivo_rechazo,latencia_ms,diagnostico_error
+clase_0_20260921_193505.mp4,0.0,p01,normal,0,0,0.9997,,inestable,14.66,filtro
+clase_0_20260921_193505.mp4,0.0333,p01,normal,0,0,0.9972,,inestable,2.12,filtro
+clase_0_20260921_193505.mp4,0.0667,p01,normal,0,0,0.9914,0,,2.32,OK
+clase_0_20260921_193505.mp4,0.1,p01,normal,0,0,0.9986,0,,2.36,OK
+clase_0_20260921_193505.mp4,0.1333,p01,normal,0,0,0.9989,0,,2.56,OK
+clase_0_20260921_193505.mp4,0.1667,p01,normal,0,0,0.9992,0,,2.11,OK
+clase_0_20260921_193505.mp4,0.2,p01,normal,0,0,0.9989,0,,1.97,OK
+clase_0_20260921_193505.mp4,0.2333,p01,normal,0,0,0.9972,0,,1.6,OK
+clase_0_20260921_193505.mp4,0.2667,p01,normal,0,0,0.9978,0,,1.95,OK
+clase_0_20260921_193505.mp4,0.3,p01,normal,0,0,0.9988,0,,2.68,OK
+clase_0_20260921_193505.mp4,0.3333,p01,normal,0,0,0.997,0,,2.46,OK
+clase_0_20260921_193505.mp4,0.3667,p01,normal,0,0,0.9984,0,,2.24,OK
+clase_0_20260921_193505.mp4,0.4,p01,normal,0,0,0.9953,0,,1.87,OK
+clase_0_20260921_193505.mp4,0.4333,p01,normal,0,0,0.9987,0,,1.49,OK
+clase_0_20260921_193505.mp4,0.4667,p01,normal,0,0,0.9986,0,,1.42,OK
+clase_0_20260921_193505.mp4,0.5,p01,normal,0,0,0.9987,0,,1.44,OK
+clase_0_20260921_193505.mp4,0.5333,p01,normal,0,0,0.9981,0,,2.53,OK
+clase_0_20260921_193505.mp4,0.5667,p01,normal,0,0,0.9986,0,,2.38,OK
+clase_0_20260921_193505.mp4,0.6,p01,normal,0,0,0.9995,0,,2.15,OK
+clase_0_20260921_193505.mp4,0.6333,p01,normal,0,0,0.999,0,,1.83,OK
+clase_0_20260921_193505.mp4,0.6667,p01,normal,0,0,0.9968,0,,1.52,OK
+clase_0_20260921_193505.mp4,0.7,p01,normal,0,0,0.9915,0,,1.46,OK
+clase_0_20260921_193505.mp4,0.7333,p01,normal,0,0,0.9849,0,,1.4,OK
+clase_0_20260921_193505.mp4,0.7667,p01,normal,0,0,0.9251,0,,2.0,OK
+clase_0_20260921_193505.mp4,0.8,p01,normal,0,0,0.8817,0,,2.89,OK
+clase_0_20260921_193505.mp4,0.8333,p01,normal,0,0,0.8336,0,,2.29,OK
+clase_0_20260921_193505.mp4,0.8667,p01,normal,0,0,0.8074,0,,2.39,OK
+clase_0_20260921_193505.mp4,0.9,p01,normal,0,0,0.9021,0,,1.53,OK
+clase_0_20260921_193505.mp4,0.9333,p01,normal,0,0,0.834,0,,1.52,OK
+clase_0_20260921_193505.mp4,0.9667,p01,normal,0,0,0.8039,0,,1.48,OK
+clase_0_20260921_193505.mp4,1.0,p01,normal,0,0,0.8379,0,,1.42,OK
+clase_0_20260921_193505.mp4,1.0333,p01,normal,0,0,0.8587,0,,2.22,OK
+clase_0_20260921_193505.mp4,1.0667,p01,normal,0,0,0.8029,0,,2.67,OK
+clase_0_20260921_193505.mp4,1.1,p01,normal,0,0,0.8398,0,,2.56,OK
+clase_0_20260921_193505.mp4,1.1333,p01,normal,0,0,0.9075,0,,2.2,OK
+clase_0_20260921_193505.mp4,1.1667,p01,normal,0,0,0.8807,0,,1.74,OK
+clase_0_20260921_193505.mp4,1.2,p01,normal,0,0,0.9239,0,,1.47,OK
+clase_0_20260921_193505.mp4,1.2333,p01,normal,0,0,0.9254,0,,1.93,OK
+clase_0_20260921_193505.mp4,1.2667,p01,normal,0,0,0.9076,0,,3.19,OK
+clase_0_20260921_193505.mp4,1.3,p01,normal,0,0,0.9123,0,,2.69,OK
+clase_0_20260921_193505.mp4,1.3333,p01,normal,0,0,0.9125,0,,2.42,OK
+clase_0_20260921_193505.mp4,1.3667,p01,normal,0,0,0.9341,0,,1.92,OK
+clase_0_20260921_193505.mp4,1.4,p01,normal,0,0,0.9449,0,,1.56,OK
+clase_0_20260921_193505.mp4,1.4333,p01,normal,0,0,0.9427,0,,1.39,OK
+clase_0_20260921_193505.mp4,1.4667,p01,normal,0,0,0.9164,0,,2.97,OK
+clase_0_20260921_193505.mp4,1.5,p01,normal,0,0,0.9835,0,,2.69,OK
+clase_0_20260921_193505.mp4,1.5333,p01,normal,0,0,0.9878,0,,2.42,OK
+clase_0_20260921_193505.mp4,1.5667,p01,normal,0,0,0.9803,0,,2.0,OK
+clase_0_20260921_193505.mp4,1.6,p01,normal,0,0,0.9949,0,,1.53,OK
+clase_0_20260921_193505.mp4,1.6333,p01,normal,0,0,0.9931,0,,1.5,OK
+clase_0_20260921_193505.mp4,1.6667,p01,normal,0,0,0.9985,0,,1.39,OK
+clase_0_20260921_193505.mp4,1.7,p01,normal,0,0,0.9986,0,,3.07,OK
+clase_0_20260921_193505.mp4,1.7333,p01,normal,0,0,0.9998,0,,2.88,OK
+clase_0_20260921_193505.mp4,1.7667,p01,normal,0,0,0.9996,0,,2.3,OK
+clase_0_20260921_193505.mp4,1.8,p01,normal,0,0,0.9995,0,,1.89,OK
+clase_0_20260921_193505.mp4,1.8333,p01,normal,0,0,0.9996,0,,1.69,OK
+clase_0_20260921_193505.mp4,1.8667,p01,normal,0,0,0.9999,0,,1.64,OK
+clase_0_20260921_193505.mp4,1.9,p01,normal,0,0,0.9996,0,,1.7,OK
+clase_0_20260921_193505.mp4,1.9333,p01,normal,0,0,0.9996,0,,3.67,OK
+clase_0_20260921_193505.mp4,1.9667,p01,normal,0,0,0.9999,0,,2.45,OK
+clase_0_20260921_193505.mp4,2.0,p01,normal,0,0,0.9996,0,,2.02,OK
+clase_0_20260921_193505.mp4,2.0333,p01,normal,0,0,0.9993,0,,2.16,OK
+clase_0_20260921_193505.mp4,2.0667,p01,normal,0,0,0.9995,0,,1.44,OK
+clase_0_20260921_193505.mp4,2.1,p01,normal,0,0,0.9997,0,,1.49,OK
+clase_0_20260921_193505.mp4,2.1333,p01,normal,0,0,0.9999,0,,2.5,OK
+clase_0_20260921_193505.mp4,2.1667,p01,normal,0,0,0.9993,0,,2.52,OK
+clase_0_20260921_193505.mp4,2.2,p01,normal,0,0,0.9999,0,,2.61,OK
+clase_0_20260921_193505.mp4,2.2333,p01,normal,0,0,0.9999,0,,1.52,OK
+clase_0_20260921_193505.mp4,2.2667,p01,normal,0,0,0.9999,0,,1.42,OK
+clase_0_20260921_193505.mp4,2.3,p01,normal,0,0,1.0,0,,1.39,OK
+clase_0_20260921_193505.mp4,2.3333,p01,normal,0,0,0.9997,0,,1.45,OK
+clase_0_20260921_193505.mp4,2.3667,p01,normal,0,0,0.9996,0,,1.46,OK
+clase_0_20260921_193505.mp4,2.4,p01,normal,0,0,0.9971,0,,2.64,OK
+clase_0_20260921_193505.mp4,2.4333,p01,normal,0,0,0.9998,0,,2.41,OK
+clase_0_20260921_193505.mp4,2.4667,p01,normal,0,0,1.0,0,,2.08,OK
+clase_0_20260921_193505.mp4,2.5,p01,normal,0,0,0.9999,0,,1.61,OK
+clase_0_20260921_193505.mp4,2.5333,p01,normal,0,0,0.9998,0,,1.45,OK
+clase_0_20260921_193505.mp4,2.5667,p01,normal,0,0,0.9999,0,,1.43,OK
+clase_0_20260921_193505.mp4,2.6,p01,normal,0,0,0.9999,0,,1.78,OK
+clase_0_20260921_193505.mp4,2.6333,p01,normal,0,0,0.9999,0,,2.14,OK
+clase_0_20260921_193505.mp4,2.6667,p01,normal,0,0,1.0,0,,3.06,OK
+clase_0_20260921_193505.mp4,2.7,p01,normal,0,0,0.9998,0,,2.05,OK
+clase_0_20260921_193505.mp4,2.7333,p01,normal,0,0,0.9999,0,,1.72,OK
+clase_0_20260921_193505.mp4,2.7667,p01,normal,0,0,1.0,0,,1.41,OK
+clase_0_20260921_193505.mp4,2.8,p01,normal,0,0,1.0,0,,1.57,OK
+clase_0_20260921_193505.mp4,2.8333,p01,normal,0,0,1.0,0,,1.37,OK
+clase_0_20260921_193505.mp4,2.8667,p01,normal,0,0,1.0,0,,1.3,OK
+clase_0_20260921_193505.mp4,2.9,p01,normal,0,0,1.0,0,,2.15,OK
+clase_0_20260921_193505.mp4,2.9333,p01,normal,0,0,1.0,0,,3.16,OK
+clase_0_20260921_193505.mp4,2.9667,p01,normal,0,0,1.0,0,,1.87,OK
+clase_0_20260921_193505.mp4,3.0,p01,normal,0,0,1.0,0,,1.72,OK
+clase_0_20260921_193505.mp4,3.0333,p01,normal,0,0,1.0,0,,1.44,OK
+clase_0_20260921_193505.mp4,3.0667,p01,normal,0,0,1.0,0,,1.52,OK
+clase_0_20260921_193505.mp4,3.1,p01,normal,0,0,1.0,0,,1.56,OK
+clase_0_20260921_193505.mp4,3.1333,p01,normal,0,0,1.0,0,,1.89,OK
+clase_0_20260921_193505.mp4,3.1667,p01,normal,0,0,1.0,0,,2.64,OK
+clase_0_20260921_193505.mp4,3.2,p01,normal,0,0,1.0,0,,2.14,OK
+clase_0_20260921_193505.mp4,3.2333,p01,normal,0,0,1.0,0,,1.66,OK
+clase_0_20260921_193505.mp4,3.2667,p01,normal,0,0,1.0,0,,1.42,OK
+clase_0_20260921_193505.mp4,3.3,p01,normal,0,0,1.0,0,,1.39,OK
+clase_0_20260921_193505.mp4,3.3333,p01,normal,0,0,1.0,0,,1.33,OK
+clase_0_20260921_193505.mp4,3.3667,p01,normal,0,0,1.0,0,,1.38,OK
+clase_0_20260921_193505.mp4,3.4,p01,normal,0,0,1.0,0,,1.37,OK
+clase_0_20260921_193505.mp4,3.4333,p01,normal,0,0,1.0,0,,2.4,OK
+clase_0_20260921_193505.mp4,3.4667,p01,normal,0,0,1.0,0,,2.36,OK
+clase_0_20260921_193505.mp4,3.5,p01,normal,0,0,1.0,0,,1.8,OK
+clase_0_20260921_193505.mp4,3.5333,p01,normal,0,0,1.0,0,,1.68,OK
+clase_0_20260921_193505.mp4,3.5667,p01,normal,0,0,1.0,0,,1.65,OK
+clase_0_20260921_193505.mp4,3.6,p01,normal,0,0,1.0,0,,1.78,OK
+clase_0_20260921_193505.mp4,3.6333,p01,normal,0,0,1.0,0,,1.5,OK
+clase_0_20260921_193505.mp4,3.6667,p01,normal,0,0,1.0,0,,1.8,OK
+clase_0_20260921_193505.mp4,3.7,p01,normal,0,0,1.0,0,,2.79,OK
+clase_0_20260921_193505.mp4,3.7333,p01,normal,0,0,1.0,0,,2.17,OK
+clase_0_20260921_193505.mp4,3.7667,p01,normal,0,0,1.0,0,,1.73,OK
+clase_0_20260921_193505.mp4,3.8,p01,normal,0,0,1.0,0,,1.43,OK
+clase_0_20260921_193505.mp4,3.8333,p01,normal,0,0,1.0,0,,1.41,OK
+clase_0_20260921_193505.mp4,3.8667,p01,normal,0,0,1.0,0,,1.41,OK
+clase_0_20260921_193505.mp4,3.9,p01,normal,0,0,1.0,0,,1.38,OK
+clase_0_20260921_193505.mp4,3.9333,p01,normal,0,0,1.0,0,,2.13,OK
+clase_0_20260921_193505.mp4,3.9667,p01,normal,0,0,1.0,0,,2.7,OK
+clase_0_20260921_193505.mp4,4.0,p01,normal,0,0,1.0,0,,2.46,OK
+clase_0_20260921_193505.mp4,4.0333,p01,normal,0,0,1.0,0,,1.97,OK
+clase_0_20260921_193505.mp4,4.0667,p01,normal,0,0,1.0,0,,1.85,OK
+clase_0_20260921_193505.mp4,4.1,p01,normal,0,0,1.0,0,,1.85,OK
+clase_0_20260921_193505.mp4,4.1333,p01,normal,0,0,1.0,0,,2.04,OK
+clase_0_20260921_193505.mp4,4.1667,p01,normal,0,0,1.0,0,,2.69,OK
+clase_0_20260921_193505.mp4,4.2,p01,normal,0,0,1.0,0,,2.25,OK
+clase_0_20260921_193505.mp4,4.2333,p01,normal,0,0,1.0,0,,2.0,OK
+clase_0_20260921_193505.mp4,4.2667,p01,normal,0,0,1.0,0,,1.54,OK
+clase_0_20260921_193505.mp4,4.3,p01,normal,0,0,1.0,0,,1.46,OK
+clase_0_20260921_193505.mp4,4.3333,p01,normal,0,0,1.0,0,,1.42,OK
+clase_0_20260921_193505.mp4,4.3667,p01,normal,0,0,1.0,0,,1.43,OK
+clase_0_20260921_193505.mp4,4.4,p01,normal,0,0,1.0,0,,1.65,OK
+clase_0_20260921_193505.mp4,4.4333,p01,normal,0,0,1.0,0,,2.75,OK
+clase_0_20260921_193505.mp4,4.4667,p01,normal,0,0,1.0,0,,2.08,OK
+clase_0_20260921_193505.mp4,4.5,p01,normal,0,0,0.9999,0,,1.74,OK
+clase_0_20260921_193505.mp4,4.5333,p01,normal,0,0,0.9999,0,,1.55,OK
+clase_0_20260921_193505.mp4,4.5667,p01,normal,0,0,0.9999,0,,1.39,OK
+clase_0_20260921_193505.mp4,4.6,p01,normal,0,0,0.9999,0,,1.51,OK
+clase_0_20260921_193505.mp4,4.6333,p01,normal,0,0,1.0,0,,1.41,OK
+clase_0_20260921_193505.mp4,4.6667,p01,normal,0,0,1.0,0,,1.74,OK
+clase_0_20260921_193505.mp4,4.7,p01,normal,0,0,1.0,0,,2.78,OK
+clase_0_20260921_193505.mp4,4.7333,p01,normal,0,0,1.0,0,,2.34,OK
+clase_0_20260921_193505.mp4,4.7667,p01,normal,0,0,1.0,0,,1.63,OK
+clase_0_20260921_193505.mp4,4.8,p01,normal,0,0,1.0,0,,1.48,OK
+clase_0_20260921_193505.mp4,4.8333,p01,normal,0,0,1.0,0,,1.42,OK
+clase_0_20260921_193505.mp4,4.8667,p01,normal,0,0,1.0,0,,1.45,OK
+clase_0_20260921_193505.mp4,4.9,p01,normal,0,0,1.0,0,,1.43,OK
+clase_0_20260921_193505.mp4,4.9333,p01,normal,0,0,1.0,0,,2.52,OK
+clase_0_20260921_193505.mp4,4.9667,p01,normal,0,0,1.0,0,,2.5,OK
+clase_0_20260921_193505.mp4,5.0,p01,normal,0,0,1.0,0,,2.18,OK
+clase_0_20260921_193505.mp4,5.0333,p01,normal,0,0,1.0,0,,1.59,OK
+clase_0_20260921_193505.mp4,5.0667,p01,normal,0,0,1.0,0,,1.45,OK
+clase_0_20260921_193505.mp4,5.1,p01,normal,0,0,1.0,0,,1.4,OK
+clase_0_20260921_193505.mp4,5.1333,p01,normal,0,0,1.0,0,,1.29,OK
+clase_0_20260921_193505.mp4,5.1667,p01,normal,0,0,1.0,0,,1.4,OK
+clase_0_20260921_193505.mp4,5.2,p01,normal,0,0,1.0,0,,2.83,OK
+clase_0_20260921_193505.mp4,5.2333,p01,normal,0,0,1.0,0,,2.46,OK
+clase_0_20260921_193505.mp4,5.2667,p01,normal,0,0,1.0,0,,2.02,OK
+clase_0_20260921_193505.mp4,5.3,p01,normal,0,0,1.0,0,,1.73,OK
+clase_0_20260921_193505.mp4,5.3333,p01,normal,0,0,1.0,0,,1.49,OK
+clase_0_20260921_193505.mp4,5.3667,p01,normal,0,0,1.0,0,,1.37,OK
+clase_0_20260921_193505.mp4,5.4,p01,normal,0,0,1.0,0,,1.48,OK
+clase_0_20260921_193505.mp4,5.4333,p01,normal,0,0,1.0,0,,2.0,OK
+clase_0_20260921_193505.mp4,5.4667,p01,normal,0,0,1.0,0,,2.88,OK
+clase_0_20260921_193505.mp4,5.5,p01,normal,0,0,1.0,0,,2.42,OK
+clase_0_20260921_193505.mp4,5.5333,p01,normal,0,0,1.0,0,,1.65,OK
+clase_0_20260921_193505.mp4,5.5667,p01,normal,0,0,1.0,0,,1.48,OK
+clase_0_20260921_193505.mp4,5.6,p01,normal,0,0,1.0,0,,1.32,OK
+clase_0_20260921_193505.mp4,5.6333,p01,normal,0,0,1.0,0,,1.59,OK
+clase_0_20260921_193505.mp4,5.6667,p01,normal,0,0,1.0,0,,1.39,OK
+clase_0_20260921_193505.mp4,5.7,p01,normal,0,0,1.0,0,,2.45,OK
+clase_0_20260921_193505.mp4,5.7333,p01,normal,0,0,1.0,0,,2.34,OK
+clase_0_20260921_193505.mp4,5.7667,p01,normal,0,0,1.0,0,,1.99,OK
+clase_0_20260921_193505.mp4,5.8,p01,normal,0,0,1.0,0,,1.52,OK
+clase_0_20260921_193505.mp4,5.8333,p01,normal,0,0,1.0,0,,1.32,OK
+clase_0_20260921_193505.mp4,5.8667,p01,normal,0,0,0.9999,0,,1.34,OK
+clase_0_20260921_193505.mp4,5.9,p01,normal,0,0,1.0,0,,2.08,OK
+clase_0_20260921_193505.mp4,5.9333,p01,normal,0,0,1.0,0,,2.0,OK
+clase_0_20260921_193505.mp4,5.9667,p01,normal,0,0,1.0,0,,2.82,OK
+clase_0_20260921_193505.mp4,6.0,p01,normal,0,0,1.0,0,,2.36,OK
+clase_0_20260921_193505.mp4,6.0333,p01,normal,0,0,1.0,0,,1.78,OK
+clase_0_20260921_193505.mp4,6.0667,p01,normal,0,0,0.9992,0,,1.58,OK
+clase_0_20260921_193505.mp4,6.1,p01,normal,0,0,1.0,0,,1.61,OK
+clase_0_20260921_193505.mp4,6.1333,p01,normal,0,0,1.0,0,,1.59,OK
+clase_0_20260921_193505.mp4,6.1667,p01,normal,0,0,1.0,0,,1.48,OK
+clase_0_20260921_193505.mp4,6.2,p01,normal,0,0,1.0,0,,2.32,OK
+clase_0_20260921_193505.mp4,6.2333,p01,normal,0,0,1.0,0,,2.41,OK
+clase_0_20260921_193505.mp4,6.2667,p01,normal,0,0,0.9998,0,,2.05,OK
+clase_0_20260921_193505.mp4,6.3,p01,normal,0,0,1.0,0,,1.46,OK
+clase_0_20260921_193505.mp4,6.3333,p01,normal,0,0,0.9998,0,,1.49,OK
+clase_0_20260921_193505.mp4,6.3667,p01,normal,0,0,0.9992,0,,1.37,OK
+clase_0_20260921_193505.mp4,6.4,p01,normal,0,0,1.0,0,,1.38,OK
+clase_0_20260921_193505.mp4,6.4333,p01,normal,0,0,0.9992,0,,1.35,OK
+clase_0_20260921_193505.mp4,6.4667,p01,normal,0,0,0.9997,0,,2.57,OK
+clase_0_20260921_193505.mp4,6.5,p01,normal,0,0,0.959,0,,2.34,OK
+clase_0_20260921_193505.mp4,6.5333,p01,normal,0,0,0.9994,0,,1.91,OK
+clase_0_20260921_193505.mp4,6.5667,p01,normal,0,0,0.9981,0,,1.6,OK
+clase_0_20260921_193505.mp4,6.6,p01,normal,0,0,0.9965,0,,1.37,OK
+clase_0_20260921_193505.mp4,6.6333,p01,normal,0,0,0.9986,0,,1.44,OK
+clase_0_20260921_193505.mp4,6.6667,p01,normal,0,0,0.9987,0,,1.33,OK
+clase_0_20260921_193505.mp4,6.7,p01,normal,0,0,0.9987,0,,1.34,OK
+clase_0_20260921_193505.mp4,6.7333,p01,normal,0,0,0.9928,0,,2.16,OK
+clase_0_20260921_193505.mp4,6.7667,p01,normal,0,0,0.9536,0,,2.41,OK
+clase_0_20260921_193505.mp4,6.8,p01,normal,0,0,0.9955,0,,2.24,OK
+clase_0_20260921_193505.mp4,6.8333,p01,normal,0,0,0.9663,0,,1.48,OK
+clase_0_20260921_193505.mp4,6.8667,p01,normal,0,0,1.0,0,,1.39,OK
+clase_0_20260921_193505.mp4,6.9,p01,normal,0,0,0.899,0,,1.37,OK
+clase_0_20260921_193505.mp4,6.9333,p01,normal,0,0,0.8954,0,,1.36,OK
+clase_0_20260921_193505.mp4,6.9667,p01,normal,0,0,0.9997,0,,1.34,OK
+clase_0_20260921_193505.mp4,7.0,p01,normal,0,0,1.0,0,,2.32,OK
+clase_0_20260921_193505.mp4,7.0333,p01,normal,0,0,0.9808,0,,2.15,OK
+clase_0_20260921_193505.mp4,7.0667,p01,normal,0,0,0.9407,0,,2.15,OK
+clase_0_20260921_193505.mp4,7.1,p01,normal,0,0,0.7883,0,,1.7,OK
+clase_0_20260921_193505.mp4,7.1333,p01,normal,0,2,0.8242,,baja confianza,1.41,datos/modelo
+clase_0_20260921_193505.mp4,7.1667,p01,normal,0,0,1.0,,inestable,1.3,filtro
+clase_0_20260921_193505.mp4,7.2,p01,normal,0,0,1.0,,inestable,1.31,filtro
+clase_0_20260921_193505.mp4,7.2333,p01,normal,0,0,0.9999,0,,1.39,OK
+clase_0_20260921_193505.mp4,7.2667,p01,normal,0,0,0.9997,0,,1.99,OK
+clase_0_20260921_193505.mp4,7.3,p01,normal,0,0,0.9999,0,,2.38,OK
+clase_0_20260921_193505.mp4,7.3333,p01,normal,0,0,1.0,0,,2.12,OK
+clase_0_20260921_193505.mp4,7.3667,p01,normal,0,0,1.0,0,,1.91,OK
+clase_0_20260921_193505.mp4,7.4,p01,normal,0,0,0.7879,0,,1.62,OK
+clase_0_20260921_193505.mp4,7.4333,p01,normal,0,0,1.0,0,,1.45,OK
+clase_0_20260921_193505.mp4,7.4667,p01,normal,0,0,1.0,0,,1.32,OK
+clase_0_20260921_193505.mp4,7.5,p01,normal,0,0,1.0,0,,1.34,OK
+clase_0_20260921_193505.mp4,7.5333,p01,normal,0,0,1.0,0,,2.4,OK
+clase_0_20260921_193505.mp4,7.5667,p01,normal,0,0,1.0,0,,3.15,OK
+clase_0_20260921_193505.mp4,7.6,p01,normal,0,0,1.0,0,,1.94,OK
+clase_0_20260921_193505.mp4,7.6333,p01,normal,0,0,1.0,0,,1.55,OK
+clase_0_20260921_193505.mp4,7.6667,p01,normal,0,0,1.0,0,,1.4,OK
+clase_0_20260921_193505.mp4,7.7,p01,normal,0,0,1.0,0,,1.37,OK
+clase_0_20260921_193505.mp4,7.7333,p01,normal,0,0,1.0,0,,1.33,OK
+clase_0_20260921_193505.mp4,7.7667,p01,normal,0,0,1.0,0,,1.41,OK
+clase_0_20260921_193505.mp4,7.8,p01,normal,0,0,1.0,0,,2.41,OK
+clase_0_20260921_193505.mp4,7.8333,p01,normal,0,0,1.0,0,,2.6,OK
+clase_0_20260921_193505.mp4,7.8667,p01,normal,0,0,1.0,0,,1.85,OK
+clase_0_20260921_193505.mp4,7.9,p01,normal,0,0,1.0,0,,1.53,OK
+clase_0_20260921_193505.mp4,7.9333,p01,normal,0,0,1.0,0,,1.33,OK
+clase_0_20260921_193505.mp4,7.9667,p01,normal,0,0,1.0,0,,1.32,OK
+clase_0_20260921_193505.mp4,8.0,p01,normal,0,0,1.0,0,,1.34,OK
+clase_0_20260921_193505.mp4,8.0333,p01,normal,0,0,1.0,0,,1.31,OK
+clase_0_20260921_193505.mp4,8.0667,p01,normal,0,0,1.0,0,,3.15,OK
+clase_0_20260921_193505.mp4,8.1,p01,normal,0,0,1.0,0,,2.71,OK
+clase_0_20260921_193505.mp4,8.1333,p01,normal,0,0,1.0,0,,1.7,OK
+clase_0_20260921_193505.mp4,8.1667,p01,normal,0,0,1.0,0,,1.53,OK
+clase_0_20260921_193505.mp4,8.2,p01,normal,0,0,0.9998,0,,1.42,OK
+clase_0_20260921_193505.mp4,8.2333,p01,normal,0,0,0.9998,0,,1.35,OK
+clase_0_20260921_193505.mp4,8.2667,p01,normal,0,0,0.9968,0,,1.39,OK
+clase_0_20260921_193505.mp4,8.3,p01,normal,0,0,0.8955,0,,1.64,OK
+clase_0_20260921_193505.mp4,8.3333,p01,normal,0,0,0.7801,0,,2.7,OK
+clase_0_20260921_193505.mp4,8.3667,p01,normal,0,0,0.8516,0,,2.08,OK
+clase_0_20260921_193505.mp4,8.4,p01,normal,0,4,0.5868,,baja confianza,1.71,datos/modelo
+clase_0_20260921_193505.mp4,8.4333,p01,normal,0,0,0.9843,,inestable,1.48,filtro
+clase_0_20260921_193505.mp4,8.4667,p01,normal,0,0,0.975,,inestable,1.36,filtro
+clase_0_20260921_193505.mp4,8.5,p01,normal,0,0,0.9637,0,,1.42,OK
+clase_0_20260921_193505.mp4,8.5333,p01,normal,0,0,0.947,0,,1.39,OK
+clase_0_20260921_193505.mp4,8.5667,p01,normal,0,0,0.9258,0,,1.53,OK
+clase_0_20260921_193505.mp4,8.6,p01,normal,0,0,0.9862,0,,3.17,OK
+clase_0_20260921_193505.mp4,8.6333,p01,normal,0,0,0.9978,0,,2.15,OK
+clase_0_20260921_193505.mp4,8.6667,p01,normal,0,0,0.9998,0,,1.61,OK
+clase_0_20260921_193505.mp4,8.7,p01,normal,0,0,0.9999,0,,1.54,OK
+clase_0_20260921_193505.mp4,8.7333,p01,normal,0,0,0.9999,0,,1.54,OK
+clase_0_20260921_193505.mp4,8.7667,p01,normal,0,0,1.0,0,,1.63,OK
+clase_0_20260921_193505.mp4,8.8,p01,normal,0,0,1.0,0,,1.65,OK
+clase_0_20260921_193505.mp4,8.8333,p01,normal,0,0,1.0,0,,3.19,OK
+clase_0_20260921_193505.mp4,8.8667,p01,normal,0,0,1.0,0,,2.79,OK
+clase_0_20260921_193505.mp4,8.9,p01,normal,0,0,1.0,0,,2.02,OK
+clase_0_20260921_193505.mp4,8.9333,p01,normal,0,0,1.0,0,,1.65,OK
+clase_0_20260921_193505.mp4,8.9667,p01,normal,0,0,1.0,0,,1.56,OK
+clase_0_20260921_193505.mp4,9.0,p01,normal,0,0,1.0,0,,1.64,OK
+clase_0_20260921_193505.mp4,9.0333,p01,normal,0,0,0.8655,0,,1.55,OK
+clase_0_20260921_193505.mp4,9.0667,p01,normal,0,0,0.9068,0,,2.9,OK
+clase_0_20260921_193505.mp4,9.1,p01,normal,0,0,0.8881,0,,2.65,OK
+clase_0_20260921_193505.mp4,9.1333,p01,normal,0,0,0.9114,0,,1.82,OK
+clase_0_20260921_193505.mp4,9.1667,p01,normal,0,0,0.9943,0,,1.52,OK
+clase_0_20260921_193505.mp4,9.2,p01,normal,0,0,0.9977,0,,1.48,OK
+clase_0_20260921_193505.mp4,9.2333,p01,normal,0,0,0.9896,0,,1.55,OK
+clase_0_20260921_193505.mp4,9.2667,p01,normal,0,0,0.9965,0,,1.5,OK
+clase_0_20260921_193505.mp4,9.3,p01,normal,0,0,0.9972,0,,2.16,OK
+clase_0_20260921_193505.mp4,9.3333,p01,normal,0,0,0.9998,0,,2.8,OK
+clase_0_20260921_193505.mp4,9.3667,p01,normal,0,0,0.9993,0,,2.32,OK
+clase_0_20260921_193505.mp4,9.4,p01,normal,0,0,0.9994,0,,1.51,OK
+clase_0_20260921_193505.mp4,9.4333,p01,normal,0,0,0.9998,0,,1.49,OK
+clase_0_20260921_193505.mp4,9.4667,p01,normal,0,0,0.9996,0,,1.74,OK
+clase_0_20260921_193505.mp4,9.5,p01,normal,0,0,0.9989,0,,1.58,OK
+clase_0_20260921_193505.mp4,9.5333,p01,normal,0,0,0.9998,0,,1.57,OK
+clase_0_20260921_193505.mp4,9.5667,p01,normal,0,0,1.0,0,,2.8,OK
+clase_0_20260921_193505.mp4,9.6,p01,normal,0,0,1.0,0,,2.16,OK
+clase_0_20260921_193505.mp4,9.6333,p01,normal,0,0,1.0,0,,1.69,OK
+clase_0_20260921_193505.mp4,9.6667,p01,normal,0,0,0.9998,0,,1.57,OK
+clase_0_20260921_193505.mp4,9.7,p01,normal,0,0,1.0,0,,1.46,OK
+clase_0_20260921_193505.mp4,9.7333,p01,normal,0,0,1.0,0,,1.37,OK
+clase_0_20260921_193505.mp4,9.7667,p01,normal,0,0,1.0,0,,1.43,OK
+clase_0_20260921_193505.mp4,9.8,p01,normal,0,0,1.0,0,,1.45,OK
+clase_0_20260921_193505.mp4,9.8333,p01,normal,0,0,1.0,0,,2.31,OK
+clase_0_20260921_193505.mp4,9.8667,p01,normal,0,0,1.0,0,,2.4,OK
+clase_0_20260921_193505.mp4,9.9,p01,normal,0,0,1.0,0,,2.0,OK
+clase_0_20260921_193505.mp4,9.9333,p01,normal,0,0,1.0,0,,1.57,OK
+clase_0_20260921_193505.mp4,9.9667,p01,normal,0,0,1.0,0,,1.39,OK
+clase_1_20260921_193436.mp4,0.0,p01,normal,1,1,0.9998,,inestable,2.28,filtro
+clase_1_20260921_193436.mp4,0.0333,p01,normal,1,1,1.0,,inestable,1.72,filtro
+clase_1_20260921_193436.mp4,0.0667,p01,normal,1,1,0.9999,,inestable,2.77,filtro
+clase_1_20260921_193436.mp4,0.1,p01,normal,1,1,0.9999,,inestable,2.33,filtro
+clase_1_20260921_193436.mp4,0.1333,p01,normal,1,1,0.9999,1,,2.23,OK
+clase_1_20260921_193436.mp4,0.1667,p01,normal,1,1,1.0,,cooldown,1.96,filtro
+clase_1_20260921_193436.mp4,0.2,p01,normal,1,1,1.0,,cooldown,2.01,filtro
+clase_1_20260921_193436.mp4,0.2333,p01,normal,1,1,1.0,,cooldown,1.57,filtro
+clase_1_20260921_193436.mp4,0.2667,p01,normal,1,1,1.0,,cooldown,1.66,filtro
+clase_1_20260921_193436.mp4,0.3,p01,normal,1,1,1.0,,cooldown,2.92,filtro
+clase_1_20260921_193436.mp4,0.3333,p01,normal,1,1,1.0,,cooldown,2.33,filtro
+clase_1_20260921_193436.mp4,0.3667,p01,normal,1,1,0.9999,,cooldown,2.32,filtro
+clase_1_20260921_193436.mp4,0.4,p01,normal,1,1,1.0,,cooldown,2.02,filtro
+clase_1_20260921_193436.mp4,0.4333,p01,normal,1,1,1.0,,cooldown,1.64,filtro
+clase_1_20260921_193436.mp4,0.4667,p01,normal,1,1,1.0,,cooldown,1.51,filtro
+clase_1_20260921_193436.mp4,0.5,p01,normal,1,1,1.0,,cooldown,2.16,filtro
+clase_1_20260921_193436.mp4,0.5333,p01,normal,1,1,1.0,,cooldown,2.52,filtro
+clase_1_20260921_193436.mp4,0.5667,p01,normal,1,1,1.0,,cooldown,2.26,filtro
+clase_1_20260921_193436.mp4,0.6,p01,normal,1,1,1.0,,cooldown,2.04,filtro
+clase_1_20260921_193436.mp4,0.6333,p01,normal,1,1,1.0,,cooldown,1.66,filtro
+clase_1_20260921_193436.mp4,0.6667,p01,normal,1,1,0.9999,,cooldown,1.43,filtro
+clase_1_20260921_193436.mp4,0.7,p01,normal,1,1,1.0,,cooldown,1.42,filtro
+clase_1_20260921_193436.mp4,0.7333,p01,normal,1,1,1.0,,cooldown,1.5,filtro
+clase_1_20260921_193436.mp4,0.7667,p01,normal,1,1,1.0,,cooldown,2.61,filtro
+clase_1_20260921_193436.mp4,0.8,p01,normal,1,1,1.0,,cooldown,3.15,filtro
+clase_1_20260921_193436.mp4,0.8333,p01,normal,1,1,1.0,,cooldown,2.12,filtro
+clase_1_20260921_193436.mp4,0.8667,p01,normal,1,1,1.0,,cooldown,1.7,filtro
+clase_1_20260921_193436.mp4,0.9,p01,normal,1,1,1.0,,cooldown,1.5,filtro
+clase_1_20260921_193436.mp4,0.9333,p01,normal,1,1,1.0,,cooldown,1.51,filtro
+clase_1_20260921_193436.mp4,0.9667,p01,normal,1,1,1.0,,cooldown,1.66,filtro
+clase_1_20260921_193436.mp4,1.0,p01,normal,1,1,1.0,,cooldown,3.12,filtro
+clase_1_20260921_193436.mp4,1.0333,p01,normal,1,1,1.0,,cooldown,2.38,filtro
+clase_1_20260921_193436.mp4,1.0667,p01,normal,1,1,1.0,,cooldown,1.89,filtro
+clase_1_20260921_193436.mp4,1.1,p01,normal,1,1,0.9999,,cooldown,1.52,filtro
+clase_1_20260921_193436.mp4,1.1333,p01,normal,1,1,1.0,,cooldown,1.49,filtro
+clase_1_20260921_193436.mp4,1.1667,p01,normal,1,1,0.9999,,cooldown,1.4,filtro
+clase_1_20260921_193436.mp4,1.2,p01,normal,1,1,1.0,,cooldown,1.58,filtro
+clase_1_20260921_193436.mp4,1.2333,p01,normal,1,1,1.0,,cooldown,3.31,filtro
+clase_1_20260921_193436.mp4,1.2667,p01,normal,1,1,1.0,,cooldown,3.1,filtro
+clase_1_20260921_193436.mp4,1.3,p01,normal,1,1,0.9999,,cooldown,2.13,filtro
+clase_1_20260921_193436.mp4,1.3333,p01,normal,1,1,1.0,,esperando clase 0,1.74,filtro
+clase_1_20260921_193436.mp4,1.3667,p01,normal,1,1,1.0,,esperando clase 0,1.64,filtro
+clase_1_20260921_193436.mp4,1.4,p01,normal,1,1,1.0,,esperando clase 0,1.62,filtro
+clase_1_20260921_193436.mp4,1.4333,p01,normal,1,1,1.0,,esperando clase 0,3.12,filtro
+clase_1_20260921_193436.mp4,1.4667,p01,normal,1,1,1.0,,esperando clase 0,3.12,filtro
+clase_1_20260921_193436.mp4,1.5,p01,normal,1,1,1.0,,esperando clase 0,2.54,filtro
+clase_1_20260921_193436.mp4,1.5333,p01,normal,1,1,1.0,,esperando clase 0,1.75,filtro
+clase_1_20260921_193436.mp4,1.5667,p01,normal,1,1,0.9999,,esperando clase 0,1.69,filtro
+clase_1_20260921_193436.mp4,1.6,p01,normal,1,1,1.0,,esperando clase 0,1.81,filtro
+clase_1_20260921_193436.mp4,1.6333,p01,normal,1,1,1.0,,esperando clase 0,2.73,filtro
+clase_1_20260921_193436.mp4,1.6667,p01,normal,1,1,1.0,,esperando clase 0,2.67,filtro
+clase_1_20260921_193436.mp4,1.7,p01,normal,1,1,1.0,,esperando clase 0,2.23,filtro
+clase_1_20260921_193436.mp4,1.7333,p01,normal,1,1,1.0,,esperando clase 0,1.63,filtro
+clase_1_20260921_193436.mp4,1.7667,p01,normal,1,1,1.0,,esperando clase 0,1.72,filtro
+clase_1_20260921_193436.mp4,1.8,p01,normal,1,1,1.0,,esperando clase 0,1.53,filtro
+clase_1_20260921_193436.mp4,1.8333,p01,normal,1,1,1.0,,esperando clase 0,1.47,filtro
+clase_1_20260921_193436.mp4,1.8667,p01,normal,1,1,1.0,,esperando clase 0,2.22,filtro
+clase_1_20260921_193436.mp4,1.9,p01,normal,1,1,1.0,,esperando clase 0,2.77,filtro
+clase_1_20260921_193436.mp4,1.9333,p01,normal,1,1,1.0,,esperando clase 0,2.35,filtro
+clase_1_20260921_193436.mp4,1.9667,p01,normal,1,1,1.0,,esperando clase 0,1.75,filtro
+clase_1_20260921_193436.mp4,2.0,p01,normal,1,1,1.0,,esperando clase 0,1.63,filtro
+clase_1_20260921_193436.mp4,2.0333,p01,normal,1,1,1.0,,esperando clase 0,1.59,filtro
+clase_1_20260921_193436.mp4,2.0667,p01,normal,1,1,1.0,,esperando clase 0,1.59,filtro
+clase_1_20260921_193436.mp4,2.1,p01,normal,1,1,1.0,,esperando clase 0,3.13,filtro
+clase_1_20260921_193436.mp4,2.1333,p01,normal,1,1,1.0,,esperando clase 0,3.31,filtro
+clase_1_20260921_193436.mp4,2.1667,p01,normal,1,1,1.0,,esperando clase 0,1.97,filtro
+clase_1_20260921_193436.mp4,2.2,p01,normal,1,1,1.0,,esperando clase 0,1.76,filtro
+clase_1_20260921_193436.mp4,2.2333,p01,normal,1,1,0.9999,,esperando clase 0,1.59,filtro
+clase_1_20260921_193436.mp4,2.2667,p01,normal,1,1,1.0,,esperando clase 0,1.62,filtro
+clase_1_20260921_193436.mp4,2.3,p01,normal,1,1,1.0,,esperando clase 0,1.7,filtro
+clase_1_20260921_193436.mp4,2.3333,p01,normal,1,1,1.0,,esperando clase 0,3.06,filtro
+clase_1_20260921_193436.mp4,2.3667,p01,normal,1,1,0.9994,,esperando clase 0,2.45,filtro
+clase_1_20260921_193436.mp4,2.4,p01,normal,1,1,0.9999,,esperando clase 0,1.94,filtro
+clase_1_20260921_193436.mp4,2.4333,p01,normal,1,1,1.0,,esperando clase 0,1.7,filtro
+clase_1_20260921_193436.mp4,2.4667,p01,normal,1,1,0.9996,,esperando clase 0,1.68,filtro
+clase_1_20260921_193436.mp4,2.5,p01,normal,1,1,0.9911,,esperando clase 0,1.59,filtro
+clase_1_20260921_193436.mp4,2.5333,p01,normal,1,1,0.9999,,esperando clase 0,1.8,filtro
+clase_1_20260921_193436.mp4,2.5667,p01,normal,1,1,0.9999,,esperando clase 0,2.8,filtro
+clase_1_20260921_193436.mp4,2.6,p01,normal,1,1,0.9996,,esperando clase 0,2.98,filtro
+clase_1_20260921_193436.mp4,2.6333,p01,normal,1,1,0.9994,,esperando clase 0,1.83,filtro
+clase_1_20260921_193436.mp4,2.6667,p01,normal,1,1,0.9998,,esperando clase 0,1.81,filtro
+clase_1_20260921_193436.mp4,2.7,p01,normal,1,1,0.9999,,esperando clase 0,2.06,filtro
+clase_1_20260921_193436.mp4,2.7333,p01,normal,1,1,1.0,,esperando clase 0,2.14,filtro
+clase_1_20260921_193436.mp4,2.7667,p01,normal,1,1,0.9915,,esperando clase 0,4.02,filtro
+clase_1_20260921_193436.mp4,2.8,p01,normal,1,1,1.0,,esperando clase 0,3.65,filtro
+clase_1_20260921_193436.mp4,2.8333,p01,normal,1,1,1.0,,esperando clase 0,2.21,filtro
+clase_1_20260921_193436.mp4,2.8667,p01,normal,1,1,1.0,,esperando clase 0,1.89,filtro
+clase_1_20260921_193436.mp4,2.9,p01,normal,1,1,1.0,,esperando clase 0,1.47,filtro
+clase_1_20260921_193436.mp4,2.9333,p01,normal,1,1,1.0,,esperando clase 0,2.41,filtro
+clase_1_20260921_193436.mp4,2.9667,p01,normal,1,1,0.9974,,esperando clase 0,2.71,filtro
+clase_1_20260921_193436.mp4,3.0,p01,normal,1,1,0.9999,,esperando clase 0,2.4,filtro
+clase_1_20260921_193436.mp4,3.0333,p01,normal,1,1,0.9996,,esperando clase 0,1.82,filtro
+clase_1_20260921_193436.mp4,3.0667,p01,normal,1,1,0.999,,esperando clase 0,1.51,filtro
+clase_1_20260921_193436.mp4,3.1,p01,normal,1,1,0.952,,esperando clase 0,1.54,filtro
+clase_1_20260921_193436.mp4,3.1333,p01,normal,1,1,0.9517,,esperando clase 0,1.46,filtro
+clase_1_20260921_193436.mp4,3.1667,p01,normal,1,1,0.9321,,esperando clase 0,2.37,filtro
+clase_1_20260921_193436.mp4,3.2,p01,normal,1,1,0.9982,,esperando clase 0,2.74,filtro
+clase_1_20260921_193436.mp4,3.2333,p01,normal,1,1,0.838,,esperando clase 0,2.39,filtro
+clase_1_20260921_193436.mp4,3.2667,p01,normal,1,1,0.9369,,esperando clase 0,1.89,filtro
+clase_1_20260921_193436.mp4,3.3,p01,normal,1,1,1.0,,esperando clase 0,2.08,filtro
+clase_1_20260921_193436.mp4,3.3333,p01,normal,1,1,0.9996,,esperando clase 0,1.53,filtro
+clase_1_20260921_193436.mp4,3.3667,p01,normal,1,1,1.0,,esperando clase 0,1.46,filtro
+clase_1_20260921_193436.mp4,3.4,p01,normal,1,1,1.0,,esperando clase 0,2.61,filtro
+clase_1_20260921_193436.mp4,3.4333,p01,normal,1,1,1.0,,esperando clase 0,3.37,filtro
+clase_1_20260921_193436.mp4,3.4667,p01,normal,1,1,1.0,,esperando clase 0,1.95,filtro
+clase_1_20260921_193436.mp4,3.5,p01,normal,1,1,1.0,,esperando clase 0,1.57,filtro
+clase_1_20260921_193436.mp4,3.5333,p01,normal,1,1,1.0,,esperando clase 0,1.69,filtro
+clase_1_20260921_193436.mp4,3.5667,p01,normal,1,1,1.0,,esperando clase 0,1.64,filtro
+clase_1_20260921_193436.mp4,3.6,p01,normal,1,1,1.0,,esperando clase 0,1.82,filtro
+clase_1_20260921_193436.mp4,3.6333,p01,normal,1,1,1.0,,esperando clase 0,3.16,filtro
+clase_1_20260921_193436.mp4,3.6667,p01,normal,1,1,1.0,,esperando clase 0,2.9,filtro
+clase_1_20260921_193436.mp4,3.7,p01,normal,1,1,1.0,,esperando clase 0,1.89,filtro
+clase_1_20260921_193436.mp4,3.7333,p01,normal,1,1,1.0,,esperando clase 0,1.84,filtro
+clase_1_20260921_193436.mp4,3.7667,p01,normal,1,1,1.0,,esperando clase 0,1.57,filtro
+clase_1_20260921_193436.mp4,3.8,p01,normal,1,1,1.0,,esperando clase 0,1.5,filtro
+clase_1_20260921_193436.mp4,3.8333,p01,normal,1,1,1.0,,esperando clase 0,1.96,filtro
+clase_1_20260921_193436.mp4,3.8667,p01,normal,1,1,1.0,,esperando clase 0,2.83,filtro
+clase_1_20260921_193436.mp4,3.9,p01,normal,1,1,1.0,,esperando clase 0,2.4,filtro
+clase_1_20260921_193436.mp4,3.9333,p01,normal,1,1,1.0,,esperando clase 0,1.84,filtro
+clase_1_20260921_193436.mp4,3.9667,p01,normal,1,1,1.0,,esperando clase 0,1.62,filtro
+clase_1_20260921_193436.mp4,4.0,p01,normal,1,1,1.0,,esperando clase 0,1.6,filtro
+clase_1_20260921_193436.mp4,4.0333,p01,normal,1,1,1.0,,esperando clase 0,1.67,filtro
+clase_1_20260921_193436.mp4,4.0667,p01,normal,1,1,1.0,,esperando clase 0,2.11,filtro
+clase_1_20260921_193436.mp4,4.1,p01,normal,1,1,1.0,,esperando clase 0,3.22,filtro
+clase_1_20260921_193436.mp4,4.1333,p01,normal,1,1,1.0,,esperando clase 0,2.54,filtro
+clase_1_20260921_193436.mp4,4.1667,p01,normal,1,1,1.0,,esperando clase 0,1.71,filtro
+clase_1_20260921_193436.mp4,4.2,p01,normal,1,1,1.0,,esperando clase 0,1.6,filtro
+clase_1_20260921_193436.mp4,4.2333,p01,normal,1,1,1.0,,esperando clase 0,1.47,filtro
+clase_1_20260921_193436.mp4,4.2667,p01,normal,1,1,1.0,,esperando clase 0,1.45,filtro
+clase_1_20260921_193436.mp4,4.3,p01,normal,1,1,1.0,,esperando clase 0,2.44,filtro
+clase_1_20260921_193436.mp4,4.3333,p01,normal,1,1,0.9999,,esperando clase 0,2.68,filtro
+clase_1_20260921_193436.mp4,4.3667,p01,normal,1,1,0.9999,,esperando clase 0,2.35,filtro
+clase_1_20260921_193436.mp4,4.4,p01,normal,1,1,0.9997,,esperando clase 0,1.68,filtro
+clase_1_20260921_193436.mp4,4.4333,p01,normal,1,1,0.9998,,esperando clase 0,1.96,filtro
+clase_1_20260921_193436.mp4,4.4667,p01,normal,1,1,0.9995,,esperando clase 0,1.58,filtro
+clase_1_20260921_193436.mp4,4.5,p01,normal,1,1,0.998,,esperando clase 0,1.5,filtro
+clase_1_20260921_193436.mp4,4.5333,p01,normal,1,1,0.9979,,esperando clase 0,2.44,filtro
+clase_1_20260921_193436.mp4,4.5667,p01,normal,1,1,0.9982,,esperando clase 0,2.55,filtro
+clase_1_20260921_193436.mp4,4.6,p01,normal,1,1,0.9997,,esperando clase 0,2.14,filtro
+clase_1_20260921_193436.mp4,4.6333,p01,normal,1,1,0.9969,,esperando clase 0,1.7,filtro
+clase_1_20260921_193436.mp4,4.6667,p01,normal,1,1,0.9965,,esperando clase 0,1.55,filtro
+clase_1_20260921_193436.mp4,4.7,p01,normal,1,1,0.9912,,esperando clase 0,1.44,filtro
+clase_1_20260921_193436.mp4,4.7333,p01,normal,1,1,0.9794,,esperando clase 0,1.42,filtro
+clase_1_20260921_193436.mp4,4.7667,p01,normal,1,1,0.975,,esperando clase 0,1.64,filtro
+clase_1_20260921_193436.mp4,4.8,p01,normal,1,1,0.996,,esperando clase 0,2.63,filtro
+clase_1_20260921_193436.mp4,4.8333,p01,normal,1,1,0.9933,,esperando clase 0,2.23,filtro
+clase_1_20260921_193436.mp4,4.8667,p01,normal,1,1,0.9889,,esperando clase 0,1.58,filtro
+clase_1_20260921_193436.mp4,4.9,p01,normal,1,1,0.9974,,esperando clase 0,1.52,filtro
+clase_1_20260921_193436.mp4,4.9333,p01,normal,1,1,0.9965,,esperando clase 0,1.38,filtro
+clase_1_20260921_193436.mp4,4.9667,p01,normal,1,1,0.9993,,esperando clase 0,1.44,filtro
+clase_1_20260921_193436.mp4,5.0,p01,normal,1,1,0.9996,,esperando clase 0,1.54,filtro
+clase_1_20260921_193436.mp4,5.0333,p01,normal,1,1,0.9994,,esperando clase 0,1.47,filtro
+clase_1_20260921_193436.mp4,5.0667,p01,normal,1,1,0.9994,,esperando clase 0,3.07,filtro
+clase_1_20260921_193436.mp4,5.1,p01,normal,1,1,0.9997,,esperando clase 0,2.31,filtro
+clase_1_20260921_193436.mp4,5.1333,p01,normal,1,1,0.9999,,esperando clase 0,1.69,filtro
+clase_1_20260921_193436.mp4,5.1667,p01,normal,1,1,0.9997,,esperando clase 0,1.41,filtro
+clase_1_20260921_193436.mp4,5.2,p01,normal,1,1,0.9999,,esperando clase 0,1.44,filtro
+clase_1_20260921_193436.mp4,5.2333,p01,normal,1,1,0.9999,,esperando clase 0,1.36,filtro
+clase_1_20260921_193436.mp4,5.2667,p01,normal,1,1,0.9999,,esperando clase 0,1.41,filtro
+clase_1_20260921_193436.mp4,5.3,p01,normal,1,1,1.0,,esperando clase 0,1.45,filtro
+clase_1_20260921_193436.mp4,5.3333,p01,normal,1,1,1.0,,esperando clase 0,2.34,filtro
+clase_1_20260921_193436.mp4,5.3667,p01,normal,1,1,1.0,,esperando clase 0,2.53,filtro
+clase_1_20260921_193436.mp4,5.4,p01,normal,1,1,1.0,,esperando clase 0,1.99,filtro
+clase_1_20260921_193436.mp4,5.4333,p01,normal,1,1,1.0,,esperando clase 0,1.58,filtro
+clase_1_20260921_193436.mp4,5.4667,p01,normal,1,1,1.0,,esperando clase 0,1.62,filtro
+clase_1_20260921_193436.mp4,5.5,p01,normal,1,1,1.0,,esperando clase 0,1.72,filtro
+clase_1_20260921_193436.mp4,5.5333,p01,normal,1,1,1.0,,esperando clase 0,1.51,filtro
+clase_1_20260921_193436.mp4,5.5667,p01,normal,1,1,1.0,,esperando clase 0,2.47,filtro
+clase_1_20260921_193436.mp4,5.6,p01,normal,1,1,1.0,,esperando clase 0,2.62,filtro
+clase_1_20260921_193436.mp4,5.6333,p01,normal,1,1,1.0,,esperando clase 0,2.08,filtro
+clase_1_20260921_193436.mp4,5.6667,p01,normal,1,1,1.0,,esperando clase 0,1.68,filtro
+clase_1_20260921_193436.mp4,5.7,p01,normal,1,1,1.0,,esperando clase 0,1.53,filtro
+clase_1_20260921_193436.mp4,5.7333,p01,normal,1,1,1.0,,esperando clase 0,1.41,filtro
+clase_1_20260921_193436.mp4,5.7667,p01,normal,1,1,1.0,,esperando clase 0,1.45,filtro
+clase_1_20260921_193436.mp4,5.8,p01,normal,1,1,1.0,,esperando clase 0,1.48,filtro
+clase_1_20260921_193436.mp4,5.8333,p01,normal,1,1,1.0,,esperando clase 0,2.54,filtro
+clase_1_20260921_193436.mp4,5.8667,p01,normal,1,1,1.0,,esperando clase 0,2.56,filtro
+clase_1_20260921_193436.mp4,5.9,p01,normal,1,1,1.0,,esperando clase 0,1.89,filtro
+clase_1_20260921_193436.mp4,5.9333,p01,normal,1,1,1.0,,esperando clase 0,1.76,filtro
+clase_1_20260921_193436.mp4,5.9667,p01,normal,1,1,1.0,,esperando clase 0,1.43,filtro
+clase_1_20260921_193436.mp4,6.0,p01,normal,1,1,1.0,,esperando clase 0,1.44,filtro
+clase_1_20260921_193436.mp4,6.0333,p01,normal,1,1,1.0,,esperando clase 0,1.47,filtro
+clase_1_20260921_193436.mp4,6.0667,p01,normal,1,1,1.0,,esperando clase 0,2.07,filtro
+clase_1_20260921_193436.mp4,6.1,p01,normal,1,1,1.0,,esperando clase 0,2.56,filtro
+clase_1_20260921_193436.mp4,6.1333,p01,normal,1,1,1.0,,esperando clase 0,2.14,filtro
+clase_1_20260921_193436.mp4,6.1667,p01,normal,1,1,1.0,,esperando clase 0,1.81,filtro
+clase_1_20260921_193436.mp4,6.2,p01,normal,1,1,1.0,,esperando clase 0,1.5,filtro
+clase_1_20260921_193436.mp4,6.2333,p01,normal,1,1,1.0,,esperando clase 0,1.47,filtro
+clase_1_20260921_193436.mp4,6.2667,p01,normal,1,1,1.0,,esperando clase 0,1.4,filtro
+clase_1_20260921_193436.mp4,6.3,p01,normal,1,1,1.0,,esperando clase 0,1.42,filtro
+clase_1_20260921_193436.mp4,6.3333,p01,normal,1,1,1.0,,esperando clase 0,3.47,filtro
+clase_1_20260921_193436.mp4,6.3667,p01,normal,1,1,1.0,,esperando clase 0,2.33,filtro
+clase_1_20260921_193436.mp4,6.4,p01,normal,1,1,1.0,,esperando clase 0,1.68,filtro
+clase_1_20260921_193436.mp4,6.4333,p01,normal,1,1,1.0,,esperando clase 0,1.81,filtro
+clase_1_20260921_193436.mp4,6.4667,p01,normal,1,1,1.0,,esperando clase 0,1.79,filtro
+clase_1_20260921_193436.mp4,6.5,p01,normal,1,1,1.0,,esperando clase 0,1.37,filtro
+clase_1_20260921_193436.mp4,6.5333,p01,normal,1,1,1.0,,esperando clase 0,1.4,filtro
+clase_1_20260921_193436.mp4,6.5667,p01,normal,1,1,1.0,,esperando clase 0,1.85,filtro
+clase_1_20260921_193436.mp4,6.6,p01,normal,1,1,1.0,,esperando clase 0,2.53,filtro
+clase_1_20260921_193436.mp4,6.6333,p01,normal,1,1,1.0,,esperando clase 0,2.4,filtro
+clase_1_20260921_193436.mp4,6.6667,p01,normal,1,1,1.0,,esperando clase 0,1.9,filtro
+clase_1_20260921_193436.mp4,6.7,p01,normal,1,1,1.0,,esperando clase 0,2.02,filtro
+clase_1_20260921_193436.mp4,6.7333,p01,normal,1,1,1.0,,esperando clase 0,1.71,filtro
+clase_1_20260921_193436.mp4,6.7667,p01,normal,1,1,1.0,,esperando clase 0,1.56,filtro
+clase_1_20260921_193436.mp4,6.8,p01,normal,1,1,1.0,,esperando clase 0,2.54,filtro
+clase_1_20260921_193436.mp4,6.8333,p01,normal,1,1,1.0,,esperando clase 0,3.01,filtro
+clase_1_20260921_193436.mp4,6.8667,p01,normal,1,1,1.0,,esperando clase 0,2.06,filtro
+clase_1_20260921_193436.mp4,6.9,p01,normal,1,1,1.0,,esperando clase 0,1.63,filtro
+clase_1_20260921_193436.mp4,6.9333,p01,normal,1,1,1.0,,esperando clase 0,1.43,filtro
+clase_1_20260921_193436.mp4,6.9667,p01,normal,1,1,1.0,,esperando clase 0,1.43,filtro
+clase_1_20260921_193436.mp4,7.0,p01,normal,1,1,1.0,,esperando clase 0,1.37,filtro
+clase_1_20260921_193436.mp4,7.0333,p01,normal,1,1,1.0,,esperando clase 0,1.43,filtro
+clase_1_20260921_193436.mp4,7.0667,p01,normal,1,1,1.0,,esperando clase 0,2.33,filtro
+clase_1_20260921_193436.mp4,7.1,p01,normal,1,1,1.0,,esperando clase 0,2.96,filtro
+clase_1_20260921_193436.mp4,7.1333,p01,normal,1,1,1.0,,esperando clase 0,2.16,filtro
+clase_1_20260921_193436.mp4,7.1667,p01,normal,1,1,1.0,,esperando clase 0,1.85,filtro
+clase_1_20260921_193436.mp4,7.2,p01,normal,1,1,1.0,,esperando clase 0,1.94,filtro
+clase_1_20260921_193436.mp4,7.2333,p01,normal,1,1,1.0,,esperando clase 0,1.42,filtro
+clase_1_20260921_193436.mp4,7.2667,p01,normal,1,1,1.0,,esperando clase 0,1.39,filtro
+clase_1_20260921_193436.mp4,7.3,p01,normal,1,1,1.0,,esperando clase 0,2.19,filtro
+clase_1_20260921_193436.mp4,7.3333,p01,normal,1,1,1.0,,esperando clase 0,2.6,filtro
+clase_1_20260921_193436.mp4,7.3667,p01,normal,1,1,1.0,,esperando clase 0,2.19,filtro
+clase_1_20260921_193436.mp4,7.4,p01,normal,1,1,1.0,,esperando clase 0,1.51,filtro
+clase_1_20260921_193436.mp4,7.4333,p01,normal,1,1,1.0,,esperando clase 0,1.39,filtro
+clase_1_20260921_193436.mp4,7.4667,p01,normal,1,1,1.0,,esperando clase 0,1.41,filtro
+clase_1_20260921_193436.mp4,7.5,p01,normal,1,1,1.0,,esperando clase 0,1.73,filtro
+clase_1_20260921_193436.mp4,7.5333,p01,normal,1,1,1.0,,esperando clase 0,1.47,filtro
+clase_1_20260921_193436.mp4,7.5667,p01,normal,1,1,1.0,,esperando clase 0,2.47,filtro
+clase_1_20260921_193436.mp4,7.6,p01,normal,1,1,1.0,,esperando clase 0,3.05,filtro
+clase_1_20260921_193436.mp4,7.6333,p01,normal,1,1,1.0,,esperando clase 0,1.81,filtro
+clase_1_20260921_193436.mp4,7.6667,p01,normal,1,1,0.9999,,esperando clase 0,1.63,filtro
+clase_1_20260921_193436.mp4,7.7,p01,normal,1,1,1.0,,esperando clase 0,1.41,filtro
+clase_1_20260921_193436.mp4,7.7333,p01,normal,1,1,0.9999,,esperando clase 0,1.4,filtro
+clase_1_20260921_193436.mp4,7.7667,p01,normal,1,1,0.9997,,esperando clase 0,1.41,filtro
+clase_1_20260921_193436.mp4,7.8,p01,normal,1,1,0.9997,,esperando clase 0,2.07,filtro
+clase_1_20260921_193436.mp4,7.8333,p01,normal,1,1,0.9995,,esperando clase 0,2.63,filtro
+clase_1_20260921_193436.mp4,7.8667,p01,normal,1,1,0.9998,,esperando clase 0,2.21,filtro
+clase_1_20260921_193436.mp4,7.9,p01,normal,1,1,0.9997,,esperando clase 0,1.67,filtro
+clase_1_20260921_193436.mp4,7.9333,p01,normal,1,1,0.9999,,esperando clase 0,1.41,filtro
+clase_1_20260921_193436.mp4,7.9667,p01,normal,1,1,0.9999,,esperando clase 0,1.45,filtro
+clase_1_20260921_193436.mp4,8.0,p01,normal,1,1,0.9998,,esperando clase 0,1.43,filtro
+clase_1_20260921_193436.mp4,8.0333,p01,normal,1,1,0.9999,,esperando clase 0,1.57,filtro
+clase_1_20260921_193436.mp4,8.0667,p01,normal,1,1,0.9997,,esperando clase 0,2.3,filtro
+clase_1_20260921_193436.mp4,8.1,p01,normal,1,1,0.9998,,esperando clase 0,2.5,filtro
+clase_1_20260921_193436.mp4,8.1333,p01,normal,1,1,1.0,,esperando clase 0,2.12,filtro
+clase_1_20260921_193436.mp4,8.1667,p01,normal,1,1,0.9999,,esperando clase 0,1.64,filtro
+clase_1_20260921_193436.mp4,8.2,p01,normal,1,1,0.9999,,esperando clase 0,1.52,filtro
+clase_1_20260921_193436.mp4,8.2333,p01,normal,1,1,1.0,,esperando clase 0,1.45,filtro
+clase_1_20260921_193436.mp4,8.2667,p01,normal,1,1,1.0,,esperando clase 0,1.5,filtro
+clase_1_20260921_193436.mp4,8.3,p01,normal,1,1,0.9999,,esperando clase 0,1.44,filtro
+clase_1_20260921_193436.mp4,8.3333,p01,normal,1,1,1.0,,esperando clase 0,2.06,filtro
+clase_1_20260921_193436.mp4,8.3667,p01,normal,1,1,1.0,,esperando clase 0,2.25,filtro
+clase_1_20260921_193436.mp4,8.4,p01,normal,1,1,1.0,,esperando clase 0,2.03,filtro
+clase_1_20260921_193436.mp4,8.4333,p01,normal,1,1,1.0,,esperando clase 0,1.54,filtro
+clase_1_20260921_193436.mp4,8.4667,p01,normal,1,1,1.0,,esperando clase 0,1.51,filtro
+clase_1_20260921_193436.mp4,8.5,p01,normal,1,1,1.0,,esperando clase 0,1.39,filtro
+clase_1_20260921_193436.mp4,8.5333,p01,normal,1,1,1.0,,esperando clase 0,1.41,filtro
+clase_1_20260921_193436.mp4,8.5667,p01,normal,1,1,1.0,,esperando clase 0,1.42,filtro
+clase_1_20260921_193436.mp4,8.6,p01,normal,1,1,1.0,,esperando clase 0,2.07,filtro
+clase_1_20260921_193436.mp4,8.6333,p01,normal,1,1,1.0,,esperando clase 0,2.17,filtro
+clase_1_20260921_193436.mp4,8.6667,p01,normal,1,1,1.0,,esperando clase 0,2.11,filtro
+clase_1_20260921_193436.mp4,8.7,p01,normal,1,1,1.0,,esperando clase 0,1.66,filtro
+clase_1_20260921_193436.mp4,8.7333,p01,normal,1,1,1.0,,esperando clase 0,1.56,filtro
+clase_1_20260921_193436.mp4,8.7667,p01,normal,1,1,1.0,,esperando clase 0,1.58,filtro
+clase_1_20260921_193436.mp4,8.8,p01,normal,1,1,1.0,,esperando clase 0,1.5,filtro
+clase_1_20260921_193436.mp4,8.8333,p01,normal,1,1,1.0,,esperando clase 0,1.58,filtro
+clase_1_20260921_193436.mp4,8.8667,p01,normal,1,1,1.0,,esperando clase 0,2.38,filtro
+clase_1_20260921_193436.mp4,8.9,p01,normal,1,1,1.0,,esperando clase 0,2.36,filtro
+clase_1_20260921_193436.mp4,8.9333,p01,normal,1,1,1.0,,esperando clase 0,1.86,filtro
+clase_1_20260921_193436.mp4,8.9667,p01,normal,1,1,1.0,,esperando clase 0,1.43,filtro
+clase_1_20260921_193436.mp4,9.0,p01,normal,1,1,1.0,,esperando clase 0,1.35,filtro
+clase_1_20260921_193436.mp4,9.0333,p01,normal,1,1,1.0,,esperando clase 0,1.52,filtro
+clase_1_20260921_193436.mp4,9.0667,p01,normal,1,1,1.0,,esperando clase 0,1.39,filtro
+clase_1_20260921_193436.mp4,9.1,p01,normal,1,1,1.0,,esperando clase 0,1.51,filtro
+clase_1_20260921_193436.mp4,9.1333,p01,normal,1,1,1.0,,esperando clase 0,2.29,filtro
+clase_1_20260921_193436.mp4,9.1667,p01,normal,1,1,1.0,,esperando clase 0,2.17,filtro
+clase_1_20260921_193436.mp4,9.2,p01,normal,1,1,1.0,,esperando clase 0,1.79,filtro
+clase_1_20260921_193436.mp4,9.2333,p01,normal,1,1,1.0,,esperando clase 0,1.39,filtro
+clase_1_20260921_193436.mp4,9.2667,p01,normal,1,1,1.0,,esperando clase 0,1.37,filtro
+clase_1_20260921_193436.mp4,9.3,p01,normal,1,1,1.0,,esperando clase 0,1.37,filtro
+clase_1_20260921_193436.mp4,9.3333,p01,normal,1,1,1.0,,esperando clase 0,1.35,filtro
+clase_1_20260921_193436.mp4,9.3667,p01,normal,1,1,1.0,,esperando clase 0,1.38,filtro
+clase_1_20260921_193436.mp4,9.4,p01,normal,1,1,1.0,,esperando clase 0,2.38,filtro
+clase_1_20260921_193436.mp4,9.4333,p01,normal,1,1,1.0,,esperando clase 0,2.29,filtro
+clase_1_20260921_193436.mp4,9.4667,p01,normal,1,1,1.0,,esperando clase 0,1.92,filtro
+clase_1_20260921_193436.mp4,9.5,p01,normal,1,1,1.0,,esperando clase 0,1.56,filtro
+clase_1_20260921_193436.mp4,9.5333,p01,normal,1,1,1.0,,esperando clase 0,1.36,filtro
+clase_1_20260921_193436.mp4,9.5667,p01,normal,1,1,1.0,,esperando clase 0,1.37,filtro
+clase_1_20260921_193436.mp4,9.6,p01,normal,1,1,1.0,,esperando clase 0,1.34,filtro
+clase_1_20260921_193436.mp4,9.6333,p01,normal,1,1,1.0,,esperando clase 0,1.31,filtro
+clase_1_20260921_193436.mp4,9.6667,p01,normal,1,1,1.0,,esperando clase 0,1.5,filtro
+clase_1_20260921_193436.mp4,9.7,p01,normal,1,1,1.0,,esperando clase 0,2.38,filtro
+clase_1_20260921_193436.mp4,9.7333,p01,normal,1,1,1.0,,esperando clase 0,2.2,filtro
+clase_1_20260921_193436.mp4,9.7667,p01,normal,1,1,1.0,,esperando clase 0,1.71,filtro
+clase_1_20260921_193436.mp4,9.8,p01,normal,1,1,1.0,,esperando clase 0,1.45,filtro
+clase_1_20260921_193436.mp4,9.8333,p01,normal,1,1,1.0,,esperando clase 0,1.35,filtro
+clase_1_20260921_193436.mp4,9.8667,p01,normal,1,1,1.0,,esperando clase 0,1.38,filtro
+clase_1_20260921_193436.mp4,9.9,p01,normal,1,1,1.0,,esperando clase 0,1.37,filtro
+clase_1_20260921_193436.mp4,9.9333,p01,normal,1,1,1.0,,esperando clase 0,1.28,filtro
+clase_1_20260921_193436.mp4,9.9667,p01,normal,1,1,1.0,,esperando clase 0,1.95,filtro
+clase_1_20260921_193436.mp4,10.0,p01,normal,1,1,1.0,,esperando clase 0,2.24,filtro
+clase_1_20260921_193436.mp4,10.0333,p01,normal,1,1,1.0,,esperando clase 0,1.95,filtro
+clase_1_20260921_193436.mp4,10.0667,p01,normal,1,1,0.9999,,esperando clase 0,1.67,filtro
+clase_2_20260921_193535.mp4,0.0,p01,normal,2,2,0.9996,,inestable,2.19,filtro
+clase_2_20260921_193535.mp4,0.0333,p01,normal,2,2,0.9995,,inestable,1.59,filtro
+clase_2_20260921_193535.mp4,0.0667,p01,normal,2,2,0.9997,,inestable,1.52,filtro
+clase_2_20260921_193535.mp4,0.1,p01,normal,2,2,0.9998,,inestable,1.57,filtro
+clase_2_20260921_193535.mp4,0.1333,p01,normal,2,2,0.9993,2,,3.43,OK
+clase_2_20260921_193535.mp4,0.1667,p01,normal,2,2,0.9997,,cooldown,2.59,filtro
+clase_2_20260921_193535.mp4,0.2,p01,normal,2,2,0.9999,,cooldown,2.04,filtro
+clase_2_20260921_193535.mp4,0.2333,p01,normal,2,2,0.9997,,cooldown,2.17,filtro
+clase_2_20260921_193535.mp4,0.2667,p01,normal,2,2,0.9997,,cooldown,1.66,filtro
+clase_2_20260921_193535.mp4,0.3,p01,normal,2,2,0.9996,,cooldown,1.56,filtro
+clase_2_20260921_193535.mp4,0.3333,p01,normal,2,2,0.9996,,cooldown,2.68,filtro
+clase_2_20260921_193535.mp4,0.3667,p01,normal,2,2,0.9999,,cooldown,2.37,filtro
+clase_2_20260921_193535.mp4,0.4,p01,normal,2,2,0.9998,,cooldown,2.17,filtro
+clase_2_20260921_193535.mp4,0.4333,p01,normal,2,2,0.9996,,cooldown,1.87,filtro
+clase_2_20260921_193535.mp4,0.4667,p01,normal,2,2,0.9997,,cooldown,1.48,filtro
+clase_2_20260921_193535.mp4,0.5,p01,normal,2,2,0.9998,,cooldown,1.4,filtro
+clase_2_20260921_193535.mp4,0.5333,p01,normal,2,2,0.9993,,cooldown,1.39,filtro
+clase_2_20260921_193535.mp4,0.5667,p01,normal,2,2,0.9997,,cooldown,2.18,filtro
+clase_2_20260921_193535.mp4,0.6,p01,normal,2,2,0.9998,,cooldown,2.24,filtro
+clase_2_20260921_193535.mp4,0.6333,p01,normal,2,2,0.9994,,cooldown,2.07,filtro
+clase_2_20260921_193535.mp4,0.6667,p01,normal,2,2,0.9997,,cooldown,1.91,filtro
+clase_2_20260921_193535.mp4,0.7,p01,normal,2,2,0.9994,,cooldown,1.7,filtro
+clase_2_20260921_193535.mp4,0.7333,p01,normal,2,2,0.9994,,cooldown,1.43,filtro
+clase_2_20260921_193535.mp4,0.7667,p01,normal,2,2,0.9999,,cooldown,1.4,filtro
+clase_2_20260921_193535.mp4,0.8,p01,normal,2,2,0.9997,,cooldown,1.41,filtro
+clase_2_20260921_193535.mp4,0.8333,p01,normal,2,2,0.9986,,cooldown,2.71,filtro
+clase_2_20260921_193535.mp4,0.8667,p01,normal,2,2,0.9997,,cooldown,2.59,filtro
+clase_2_20260921_193535.mp4,0.9,p01,normal,2,2,0.9986,,cooldown,1.68,filtro
+clase_2_20260921_193535.mp4,0.9333,p01,normal,2,2,0.9966,,cooldown,1.44,filtro
+clase_2_20260921_193535.mp4,0.9667,p01,normal,2,2,0.9989,,cooldown,1.38,filtro
+clase_2_20260921_193535.mp4,1.0,p01,normal,2,2,0.9927,,cooldown,1.46,filtro
+clase_2_20260921_193535.mp4,1.0333,p01,normal,2,2,0.9931,,cooldown,1.35,filtro
+clase_2_20260921_193535.mp4,1.0667,p01,normal,2,2,0.9918,,cooldown,1.41,filtro
+clase_2_20260921_193535.mp4,1.1,p01,normal,2,2,0.9892,,cooldown,2.33,filtro
+clase_2_20260921_193535.mp4,1.1333,p01,normal,2,2,0.9844,,cooldown,2.13,filtro
+clase_2_20260921_193535.mp4,1.1667,p01,normal,2,2,0.9994,,cooldown,2.16,filtro
+clase_2_20260921_193535.mp4,1.2,p01,normal,2,2,0.9999,,cooldown,1.57,filtro
+clase_2_20260921_193535.mp4,1.2333,p01,normal,2,2,0.9998,,cooldown,1.46,filtro
+clase_2_20260921_193535.mp4,1.2667,p01,normal,2,2,0.9867,,cooldown,1.41,filtro
+clase_2_20260921_193535.mp4,1.3,p01,normal,2,2,0.9907,,cooldown,1.47,filtro
+clase_2_20260921_193535.mp4,1.3333,p01,normal,2,2,0.9955,,esperando clase 0,1.46,filtro
+clase_2_20260921_193535.mp4,1.3667,p01,normal,2,2,0.9954,,esperando clase 0,2.47,filtro
+clase_2_20260921_193535.mp4,1.4,p01,normal,2,2,0.9993,,esperando clase 0,3.22,filtro
+clase_2_20260921_193535.mp4,1.4333,p01,normal,2,2,0.9994,,esperando clase 0,1.91,filtro
+clase_2_20260921_193535.mp4,1.4667,p01,normal,2,2,0.9962,,esperando clase 0,1.6,filtro
+clase_2_20260921_193535.mp4,1.5,p01,normal,2,2,0.9938,,esperando clase 0,1.44,filtro
+clase_2_20260921_193535.mp4,1.5333,p01,normal,2,2,0.9923,,esperando clase 0,1.51,filtro
+clase_2_20260921_193535.mp4,1.5667,p01,normal,2,2,0.9999,,esperando clase 0,1.37,filtro
+clase_2_20260921_193535.mp4,1.6,p01,normal,2,2,0.9999,,esperando clase 0,1.59,filtro
+clase_2_20260921_193535.mp4,1.6333,p01,normal,2,2,1.0,,esperando clase 0,2.57,filtro
+clase_2_20260921_193535.mp4,1.6667,p01,normal,2,2,0.9999,,esperando clase 0,2.21,filtro
+clase_2_20260921_193535.mp4,1.7,p01,normal,2,2,0.9999,,esperando clase 0,1.62,filtro
+clase_2_20260921_193535.mp4,1.7333,p01,normal,2,2,0.9993,,esperando clase 0,1.4,filtro
+clase_2_20260921_193535.mp4,1.7667,p01,normal,2,2,0.9753,,esperando clase 0,1.41,filtro
+clase_2_20260921_193535.mp4,1.8,p01,normal,2,2,0.9753,,esperando clase 0,1.47,filtro
+clase_2_20260921_193535.mp4,1.8333,p01,normal,2,2,0.9597,,esperando clase 0,1.37,filtro
+clase_2_20260921_193535.mp4,1.8667,p01,normal,2,2,0.9571,,esperando clase 0,1.38,filtro
+clase_2_20260921_193535.mp4,1.9,p01,normal,2,2,0.9433,,esperando clase 0,2.03,filtro
+clase_2_20260921_193535.mp4,1.9333,p01,normal,2,2,0.9643,,esperando clase 0,2.1,filtro
+clase_2_20260921_193535.mp4,1.9667,p01,normal,2,2,0.9402,,esperando clase 0,2.13,filtro
+clase_2_20260921_193535.mp4,2.0,p01,normal,2,2,0.9965,,esperando clase 0,1.49,filtro
+clase_2_20260921_193535.mp4,2.0333,p01,normal,2,2,0.9941,,esperando clase 0,1.48,filtro
+clase_2_20260921_193535.mp4,2.0667,p01,normal,2,2,0.9999,,esperando clase 0,1.33,filtro
+clase_2_20260921_193535.mp4,2.1,p01,normal,2,2,0.9729,,esperando clase 0,1.41,filtro
+clase_2_20260921_193535.mp4,2.1333,p01,normal,2,2,0.9806,,esperando clase 0,1.4,filtro
+clase_2_20260921_193535.mp4,2.1667,p01,normal,2,2,0.9976,,esperando clase 0,1.72,filtro
+clase_2_20260921_193535.mp4,2.2,p01,normal,2,2,0.9931,,esperando clase 0,2.15,filtro
+clase_2_20260921_193535.mp4,2.2333,p01,normal,2,2,0.9996,,esperando clase 0,2.0,filtro
+clase_2_20260921_193535.mp4,2.2667,p01,normal,2,2,0.9994,,esperando clase 0,1.69,filtro
+clase_2_20260921_193535.mp4,2.3,p01,normal,2,2,0.9993,,esperando clase 0,1.6,filtro
+clase_2_20260921_193535.mp4,2.3333,p01,normal,2,2,0.9993,,esperando clase 0,1.41,filtro
+clase_2_20260921_193535.mp4,2.3667,p01,normal,2,2,0.998,,esperando clase 0,1.36,filtro
+clase_2_20260921_193535.mp4,2.4,p01,normal,2,2,0.9996,,esperando clase 0,1.39,filtro
+clase_2_20260921_193535.mp4,2.4333,p01,normal,2,2,1.0,,esperando clase 0,1.37,filtro
+clase_2_20260921_193535.mp4,2.4667,p01,normal,2,2,0.9999,,esperando clase 0,2.01,filtro
+clase_2_20260921_193535.mp4,2.5,p01,normal,2,2,0.9998,,esperando clase 0,2.18,filtro
+clase_2_20260921_193535.mp4,2.5333,p01,normal,2,2,1.0,,esperando clase 0,2.06,filtro
+clase_2_20260921_193535.mp4,2.5667,p01,normal,2,2,0.9999,,esperando clase 0,1.42,filtro
+clase_2_20260921_193535.mp4,2.6,p01,normal,2,2,0.9999,,esperando clase 0,1.48,filtro
+clase_2_20260921_193535.mp4,2.6333,p01,normal,2,2,0.9999,,esperando clase 0,1.46,filtro
+clase_2_20260921_193535.mp4,2.6667,p01,normal,2,2,1.0,,esperando clase 0,1.38,filtro
+clase_2_20260921_193535.mp4,2.7,p01,normal,2,2,0.9999,,esperando clase 0,1.35,filtro
+clase_2_20260921_193535.mp4,2.7333,p01,normal,2,2,0.9999,,esperando clase 0,1.81,filtro
+clase_2_20260921_193535.mp4,2.7667,p01,normal,2,2,1.0,,esperando clase 0,2.2,filtro
+clase_2_20260921_193535.mp4,2.8,p01,normal,2,2,0.9999,,esperando clase 0,2.02,filtro
+clase_2_20260921_193535.mp4,2.8333,p01,normal,2,2,1.0,,esperando clase 0,1.81,filtro
+clase_2_20260921_193535.mp4,2.8667,p01,normal,2,2,1.0,,esperando clase 0,1.66,filtro
+clase_2_20260921_193535.mp4,2.9,p01,normal,2,2,1.0,,esperando clase 0,1.62,filtro
+clase_2_20260921_193535.mp4,2.9333,p01,normal,2,2,0.9997,,esperando clase 0,1.93,filtro
+clase_2_20260921_193535.mp4,2.9667,p01,normal,2,2,0.9999,,esperando clase 0,1.49,filtro
+clase_2_20260921_193535.mp4,3.0,p01,normal,2,2,0.9999,,esperando clase 0,2.19,filtro
+clase_2_20260921_193535.mp4,3.0333,p01,normal,2,2,0.9995,,esperando clase 0,2.47,filtro
+clase_2_20260921_193535.mp4,3.0667,p01,normal,2,2,0.9995,,esperando clase 0,2.07,filtro
+clase_2_20260921_193535.mp4,3.1,p01,normal,2,2,0.9985,,esperando clase 0,2.25,filtro
+clase_2_20260921_193535.mp4,3.1333,p01,normal,2,2,0.9964,,esperando clase 0,2.05,filtro
+clase_2_20260921_193535.mp4,3.1667,p01,normal,2,2,0.9968,,esperando clase 0,2.5,filtro
+clase_2_20260921_193535.mp4,3.2,p01,normal,2,2,0.9979,,esperando clase 0,2.32,filtro
+clase_2_20260921_193535.mp4,3.2333,p01,normal,2,2,0.9991,,esperando clase 0,2.59,filtro
+clase_2_20260921_193535.mp4,3.2667,p01,normal,2,2,0.997,,esperando clase 0,2.12,filtro
+clase_2_20260921_193535.mp4,3.3,p01,normal,2,2,0.9983,,esperando clase 0,1.68,filtro
+clase_2_20260921_193535.mp4,3.3333,p01,normal,2,2,0.9988,,esperando clase 0,1.47,filtro
+clase_2_20260921_193535.mp4,3.3667,p01,normal,2,2,0.9992,,esperando clase 0,1.36,filtro
+clase_2_20260921_193535.mp4,3.4,p01,normal,2,2,0.9986,,esperando clase 0,1.41,filtro
+clase_2_20260921_193535.mp4,3.4333,p01,normal,2,2,0.9993,,esperando clase 0,1.36,filtro
+clase_2_20260921_193535.mp4,3.4667,p01,normal,2,2,0.9991,,esperando clase 0,1.7,filtro
+clase_2_20260921_193535.mp4,3.5,p01,normal,2,2,0.9998,,esperando clase 0,2.43,filtro
+clase_2_20260921_193535.mp4,3.5333,p01,normal,2,2,0.9997,,esperando clase 0,2.08,filtro
+clase_2_20260921_193535.mp4,3.5667,p01,normal,2,2,0.9999,,esperando clase 0,1.63,filtro
+clase_2_20260921_193535.mp4,3.6,p01,normal,2,2,0.9999,,esperando clase 0,1.45,filtro
+clase_2_20260921_193535.mp4,3.6333,p01,normal,2,2,0.9998,,esperando clase 0,1.4,filtro
+clase_2_20260921_193535.mp4,3.6667,p01,normal,2,2,0.9999,,esperando clase 0,1.38,filtro
+clase_2_20260921_193535.mp4,3.7,p01,normal,2,2,0.9999,,esperando clase 0,1.44,filtro
+clase_2_20260921_193535.mp4,3.7333,p01,normal,2,2,0.999,,esperando clase 0,1.41,filtro
+clase_2_20260921_193535.mp4,3.7667,p01,normal,2,2,0.9997,,esperando clase 0,2.39,filtro
+clase_2_20260921_193535.mp4,3.8,p01,normal,2,2,0.9999,,esperando clase 0,2.2,filtro
+clase_2_20260921_193535.mp4,3.8333,p01,normal,2,2,1.0,,esperando clase 0,1.93,filtro
+clase_2_20260921_193535.mp4,3.8667,p01,normal,2,2,1.0,,esperando clase 0,1.43,filtro
+clase_2_20260921_193535.mp4,3.9,p01,normal,2,2,1.0,,esperando clase 0,1.42,filtro
+clase_2_20260921_193535.mp4,3.9333,p01,normal,2,2,1.0,,esperando clase 0,1.38,filtro
+clase_2_20260921_193535.mp4,3.9667,p01,normal,2,2,0.9999,,esperando clase 0,1.32,filtro
+clase_2_20260921_193535.mp4,4.0,p01,normal,2,2,0.9999,,esperando clase 0,1.43,filtro
+clase_2_20260921_193535.mp4,4.0333,p01,normal,2,2,0.9999,,esperando clase 0,1.9,filtro
+clase_2_20260921_193535.mp4,4.0667,p01,normal,2,2,0.9998,,esperando clase 0,2.16,filtro
+clase_2_20260921_193535.mp4,4.1,p01,normal,2,2,0.9999,,esperando clase 0,2.14,filtro
+clase_2_20260921_193535.mp4,4.1333,p01,normal,2,2,0.9999,,esperando clase 0,1.75,filtro
+clase_2_20260921_193535.mp4,4.1667,p01,normal,2,2,0.9999,,esperando clase 0,1.4,filtro
+clase_2_20260921_193535.mp4,4.2,p01,normal,2,2,0.9999,,esperando clase 0,1.34,filtro
+clase_2_20260921_193535.mp4,4.2333,p01,normal,2,2,0.9997,,esperando clase 0,1.34,filtro
+clase_2_20260921_193535.mp4,4.2667,p01,normal,2,2,0.9999,,esperando clase 0,1.39,filtro
+clase_2_20260921_193535.mp4,4.3,p01,normal,2,2,1.0,,esperando clase 0,1.48,filtro
+clase_2_20260921_193535.mp4,4.3333,p01,normal,2,2,1.0,,esperando clase 0,2.13,filtro
+clase_2_20260921_193535.mp4,4.3667,p01,normal,2,2,0.9995,,esperando clase 0,2.13,filtro
+clase_2_20260921_193535.mp4,4.4,p01,normal,2,2,0.9996,,esperando clase 0,1.9,filtro
+clase_2_20260921_193535.mp4,4.4333,p01,normal,2,2,0.9993,,esperando clase 0,1.47,filtro
+clase_2_20260921_193535.mp4,4.4667,p01,normal,2,2,0.9997,,esperando clase 0,1.36,filtro
+clase_2_20260921_193535.mp4,4.5,p01,normal,2,2,0.999,,esperando clase 0,1.37,filtro
+clase_2_20260921_193535.mp4,4.5333,p01,normal,2,2,0.9994,,esperando clase 0,1.42,filtro
+clase_2_20260921_193535.mp4,4.5667,p01,normal,2,2,0.9962,,esperando clase 0,1.36,filtro
+clase_2_20260921_193535.mp4,4.6,p01,normal,2,2,0.9987,,esperando clase 0,2.21,filtro
+clase_2_20260921_193535.mp4,4.6333,p01,normal,2,2,0.9995,,esperando clase 0,2.18,filtro
+clase_2_20260921_193535.mp4,4.6667,p01,normal,2,2,0.9997,,esperando clase 0,1.96,filtro
+clase_2_20260921_193535.mp4,4.7,p01,normal,2,2,0.9999,,esperando clase 0,1.46,filtro
+clase_2_20260921_193535.mp4,4.7333,p01,normal,2,2,0.9998,,esperando clase 0,1.43,filtro
+clase_2_20260921_193535.mp4,4.7667,p01,normal,2,2,0.9996,,esperando clase 0,1.32,filtro
+clase_2_20260921_193535.mp4,4.8,p01,normal,2,2,0.9999,,esperando clase 0,1.42,filtro
+clase_2_20260921_193535.mp4,4.8333,p01,normal,2,2,0.9997,,esperando clase 0,1.37,filtro
+clase_2_20260921_193535.mp4,4.8667,p01,normal,2,2,0.9999,,esperando clase 0,1.77,filtro
+clase_2_20260921_193535.mp4,4.9,p01,normal,2,2,0.9998,,esperando clase 0,2.56,filtro
+clase_2_20260921_193535.mp4,4.9333,p01,normal,2,2,0.9999,,esperando clase 0,2.16,filtro
+clase_2_20260921_193535.mp4,4.9667,p01,normal,2,2,0.9999,,esperando clase 0,1.66,filtro
+clase_2_20260921_193535.mp4,5.0,p01,normal,2,2,0.9999,,esperando clase 0,1.47,filtro
+clase_2_20260921_193535.mp4,5.0333,p01,normal,2,2,0.9999,,esperando clase 0,1.37,filtro
+clase_2_20260921_193535.mp4,5.0667,p01,normal,2,2,0.9999,,esperando clase 0,1.57,filtro
+clase_2_20260921_193535.mp4,5.1,p01,normal,2,2,0.9999,,esperando clase 0,1.44,filtro
+clase_2_20260921_193535.mp4,5.1333,p01,normal,2,2,0.9999,,esperando clase 0,1.78,filtro
+clase_2_20260921_193535.mp4,5.1667,p01,normal,2,2,0.9999,,esperando clase 0,2.27,filtro
+clase_2_20260921_193535.mp4,5.2,p01,normal,2,2,1.0,,esperando clase 0,2.16,filtro
+clase_2_20260921_193535.mp4,5.2333,p01,normal,2,2,1.0,,esperando clase 0,2.21,filtro
+clase_2_20260921_193535.mp4,5.2667,p01,normal,2,2,1.0,,esperando clase 0,1.51,filtro
+clase_2_20260921_193535.mp4,5.3,p01,normal,2,2,1.0,,esperando clase 0,1.52,filtro
+clase_2_20260921_193535.mp4,5.3333,p01,normal,2,2,1.0,,esperando clase 0,1.37,filtro
+clase_2_20260921_193535.mp4,5.3667,p01,normal,2,2,1.0,,esperando clase 0,1.38,filtro
+clase_2_20260921_193535.mp4,5.4,p01,normal,2,2,1.0,,esperando clase 0,2.1,filtro
+clase_2_20260921_193535.mp4,5.4333,p01,normal,2,2,0.9999,,esperando clase 0,2.5,filtro
+clase_2_20260921_193535.mp4,5.4667,p01,normal,2,2,1.0,,esperando clase 0,1.93,filtro
+clase_2_20260921_193535.mp4,5.5,p01,normal,2,2,1.0,,esperando clase 0,1.45,filtro
+clase_2_20260921_193535.mp4,5.5333,p01,normal,2,2,0.9999,,esperando clase 0,1.79,filtro
+clase_2_20260921_193535.mp4,5.5667,p01,normal,2,2,0.9999,,esperando clase 0,1.84,filtro
+clase_2_20260921_193535.mp4,5.6,p01,normal,2,2,0.9999,,esperando clase 0,1.43,filtro
+clase_2_20260921_193535.mp4,5.6333,p01,normal,2,2,0.9999,,esperando clase 0,1.36,filtro
+clase_2_20260921_193535.mp4,5.6667,p01,normal,2,2,1.0,,esperando clase 0,2.13,filtro
+clase_2_20260921_193535.mp4,5.7,p01,normal,2,2,0.9999,,esperando clase 0,2.54,filtro
+clase_2_20260921_193535.mp4,5.7333,p01,normal,2,2,1.0,,esperando clase 0,1.82,filtro
+clase_2_20260921_193535.mp4,5.7667,p01,normal,2,2,0.9999,,esperando clase 0,1.46,filtro
+clase_2_20260921_193535.mp4,5.8,p01,normal,2,2,1.0,,esperando clase 0,1.39,filtro
+clase_2_20260921_193535.mp4,5.8333,p01,normal,2,2,0.9996,,esperando clase 0,1.4,filtro
+clase_2_20260921_193535.mp4,5.8667,p01,normal,2,2,0.9173,,esperando clase 0,1.35,filtro
+clase_2_20260921_193535.mp4,5.9,p01,normal,2,2,0.9754,,esperando clase 0,1.37,filtro
+clase_2_20260921_193535.mp4,5.9333,p01,normal,2,2,0.6558,,esperando clase 0,1.76,filtro
+clase_2_20260921_193535.mp4,5.9667,p01,normal,2,2,0.756,,esperando clase 0,2.22,filtro
+clase_2_20260921_193535.mp4,6.0,p01,normal,2,2,0.9214,,esperando clase 0,2.03,filtro
+clase_2_20260921_193535.mp4,6.0333,p01,normal,2,2,0.9668,,esperando clase 0,1.82,filtro
+clase_2_20260921_193535.mp4,6.0667,p01,normal,2,2,0.9883,,esperando clase 0,1.53,filtro
+clase_2_20260921_193535.mp4,6.1,p01,normal,2,2,0.9853,,esperando clase 0,1.49,filtro
+clase_2_20260921_193535.mp4,6.1333,p01,normal,2,2,0.9845,,esperando clase 0,1.39,filtro
+clase_2_20260921_193535.mp4,6.1667,p01,normal,2,2,0.99,,esperando clase 0,1.4,filtro
+clase_2_20260921_193535.mp4,6.2,p01,normal,2,2,0.9889,,esperando clase 0,1.69,filtro
+clase_2_20260921_193535.mp4,6.2333,p01,normal,2,3,0.6518,,esperando clase 0,2.78,datos/modelo
+clase_2_20260921_193535.mp4,6.2667,p01,normal,2,3,0.5194,,esperando clase 0,2.43,datos/modelo
+clase_2_20260921_193535.mp4,6.3,p01,normal,2,2,0.6813,,esperando clase 0,1.73,filtro
+clase_2_20260921_193535.mp4,6.3333,p01,normal,2,3,0.4522,,esperando clase 0,1.52,datos/modelo
+clase_2_20260921_193535.mp4,6.3667,p01,normal,2,2,0.8637,,esperando clase 0,1.44,filtro
+clase_2_20260921_193535.mp4,6.4,p01,normal,2,2,0.6873,,esperando clase 0,1.72,filtro
+clase_2_20260921_193535.mp4,6.4333,p01,normal,2,2,0.9351,,esperando clase 0,1.44,filtro
+clase_2_20260921_193535.mp4,6.4667,p01,normal,2,2,0.8962,,esperando clase 0,2.72,filtro
+clase_2_20260921_193535.mp4,6.5,p01,normal,2,2,0.9513,,esperando clase 0,2.92,filtro
+clase_2_20260921_193535.mp4,6.5333,p01,normal,2,2,0.9762,,esperando clase 0,2.25,filtro
+clase_2_20260921_193535.mp4,6.5667,p01,normal,2,2,0.9955,,esperando clase 0,1.55,filtro
+clase_2_20260921_193535.mp4,6.6,p01,normal,2,2,0.9983,,esperando clase 0,1.38,filtro
+clase_2_20260921_193535.mp4,6.6333,p01,normal,2,2,0.9982,,esperando clase 0,1.42,filtro
+clase_2_20260921_193535.mp4,6.6667,p01,normal,2,2,0.9945,,esperando clase 0,1.37,filtro
+clase_2_20260921_193535.mp4,6.7,p01,normal,2,2,0.9986,,esperando clase 0,2.36,filtro
+clase_2_20260921_193535.mp4,6.7333,p01,normal,2,2,0.9966,,esperando clase 0,2.61,filtro
+clase_2_20260921_193535.mp4,6.7667,p01,normal,2,2,0.9464,,esperando clase 0,2.48,filtro
+clase_2_20260921_193535.mp4,6.8,p01,normal,2,2,0.9455,,esperando clase 0,1.64,filtro
+clase_2_20260921_193535.mp4,6.8333,p01,normal,2,2,0.8926,,esperando clase 0,1.57,filtro
+clase_2_20260921_193535.mp4,6.8667,p01,normal,2,2,0.7934,,esperando clase 0,1.49,filtro
+clase_2_20260921_193535.mp4,6.9,p01,normal,2,2,0.9085,,esperando clase 0,1.41,filtro
+clase_2_20260921_193535.mp4,6.9333,p01,normal,2,2,0.7935,,esperando clase 0,2.1,filtro
+clase_2_20260921_193535.mp4,6.9667,p01,normal,2,2,0.8774,,esperando clase 0,2.73,filtro
+clase_2_20260921_193535.mp4,7.0,p01,normal,2,2,0.8955,,esperando clase 0,2.21,filtro
+clase_2_20260921_193535.mp4,7.0333,p01,normal,2,2,0.9984,,esperando clase 0,2.0,filtro
+clase_2_20260921_193535.mp4,7.0667,p01,normal,2,2,0.9999,,esperando clase 0,1.63,filtro
+clase_2_20260921_193535.mp4,7.1,p01,normal,2,2,1.0,,esperando clase 0,1.44,filtro
+clase_2_20260921_193535.mp4,7.1333,p01,normal,2,2,0.9999,,esperando clase 0,1.37,filtro
+clase_2_20260921_193535.mp4,7.1667,p01,normal,2,2,0.9991,,esperando clase 0,1.61,filtro
+clase_2_20260921_193535.mp4,7.2,p01,normal,2,2,0.9999,,esperando clase 0,2.71,filtro
+clase_2_20260921_193535.mp4,7.2333,p01,normal,2,2,0.9997,,esperando clase 0,2.48,filtro
+clase_2_20260921_193535.mp4,7.2667,p01,normal,2,2,0.9998,,esperando clase 0,1.84,filtro
+clase_2_20260921_193535.mp4,7.3,p01,normal,2,2,0.9993,,esperando clase 0,1.59,filtro
+clase_2_20260921_193535.mp4,7.3333,p01,normal,2,2,0.9974,,esperando clase 0,1.46,filtro
+clase_2_20260921_193535.mp4,7.3667,p01,normal,2,2,0.9992,,esperando clase 0,1.45,filtro
+clase_2_20260921_193535.mp4,7.4,p01,normal,2,2,0.9994,,esperando clase 0,1.44,filtro
+clase_2_20260921_193535.mp4,7.4333,p01,normal,2,2,0.9977,,esperando clase 0,2.37,filtro
+clase_2_20260921_193535.mp4,7.4667,p01,normal,2,2,0.9984,,esperando clase 0,2.75,filtro
+clase_2_20260921_193535.mp4,7.5,p01,normal,2,2,0.9985,,esperando clase 0,2.26,filtro
+clase_2_20260921_193535.mp4,7.5333,p01,normal,2,2,0.9983,,esperando clase 0,1.73,filtro
+clase_2_20260921_193535.mp4,7.5667,p01,normal,2,2,0.9983,,esperando clase 0,1.52,filtro
+clase_2_20260921_193535.mp4,7.6,p01,normal,2,2,0.9972,,esperando clase 0,1.45,filtro
+clase_2_20260921_193535.mp4,7.6333,p01,normal,2,2,0.9985,,esperando clase 0,1.38,filtro
+clase_2_20260921_193535.mp4,7.6667,p01,normal,2,2,0.9961,,esperando clase 0,1.93,filtro
+clase_2_20260921_193535.mp4,7.7,p01,normal,2,2,0.997,,esperando clase 0,2.45,filtro
+clase_2_20260921_193535.mp4,7.7333,p01,normal,2,2,0.9982,,esperando clase 0,2.01,filtro
+clase_2_20260921_193535.mp4,7.7667,p01,normal,2,2,0.9962,,esperando clase 0,1.59,filtro
+clase_2_20260921_193535.mp4,7.8,p01,normal,2,2,0.996,,esperando clase 0,1.45,filtro
+clase_2_20260921_193535.mp4,7.8333,p01,normal,2,2,0.9939,,esperando clase 0,1.35,filtro
+clase_2_20260921_193535.mp4,7.8667,p01,normal,2,2,0.993,,esperando clase 0,1.51,filtro
+clase_2_20260921_193535.mp4,7.9,p01,normal,2,2,0.997,,esperando clase 0,1.53,filtro
+clase_2_20260921_193535.mp4,7.9333,p01,normal,2,2,0.9928,,esperando clase 0,1.94,filtro
+clase_2_20260921_193535.mp4,7.9667,p01,normal,2,2,0.9994,,esperando clase 0,2.64,filtro
+clase_2_20260921_193535.mp4,8.0,p01,normal,2,2,0.9991,,esperando clase 0,2.16,filtro
+clase_2_20260921_193535.mp4,8.0333,p01,normal,2,2,0.9991,,esperando clase 0,1.69,filtro
+clase_2_20260921_193535.mp4,8.0667,p01,normal,2,2,0.9995,,esperando clase 0,1.46,filtro
+clase_2_20260921_193535.mp4,8.1,p01,normal,2,2,0.9981,,esperando clase 0,1.42,filtro
+clase_2_20260921_193535.mp4,8.1333,p01,normal,2,2,0.9945,,esperando clase 0,1.4,filtro
+clase_2_20260921_193535.mp4,8.1667,p01,normal,2,2,0.9999,,esperando clase 0,1.62,filtro
+clase_2_20260921_193535.mp4,8.2,p01,normal,2,2,0.9948,,esperando clase 0,1.93,filtro
+clase_2_20260921_193535.mp4,8.2333,p01,normal,2,2,0.9996,,esperando clase 0,2.46,filtro
+clase_2_20260921_193535.mp4,8.2667,p01,normal,2,2,0.9971,,esperando clase 0,2.15,filtro
+clase_2_20260921_193535.mp4,8.3,p01,normal,2,2,0.9878,,esperando clase 0,1.69,filtro
+clase_2_20260921_193535.mp4,8.3333,p01,normal,2,2,0.9745,,esperando clase 0,2.11,filtro
+clase_2_20260921_193535.mp4,8.3667,p01,normal,2,2,0.9986,,esperando clase 0,1.41,filtro
+clase_2_20260921_193535.mp4,8.4,p01,normal,2,2,0.9914,,esperando clase 0,1.43,filtro
+clase_2_20260921_193535.mp4,8.4333,p01,normal,2,2,0.9998,,esperando clase 0,1.36,filtro
+clase_2_20260921_193535.mp4,8.4667,p01,normal,2,2,0.9933,,esperando clase 0,2.12,filtro
+clase_2_20260921_193535.mp4,8.5,p01,normal,2,2,0.9995,,esperando clase 0,2.26,filtro
+clase_2_20260921_193535.mp4,8.5333,p01,normal,2,2,0.9925,,esperando clase 0,2.37,filtro
+clase_2_20260921_193535.mp4,8.5667,p01,normal,2,2,0.9967,,esperando clase 0,1.5,filtro
+clase_2_20260921_193535.mp4,8.6,p01,normal,2,2,0.9998,,esperando clase 0,1.45,filtro
+clase_2_20260921_193535.mp4,8.6333,p01,normal,2,2,1.0,,esperando clase 0,1.5,filtro
+clase_2_20260921_193535.mp4,8.6667,p01,normal,2,2,1.0,,esperando clase 0,1.43,filtro
+clase_2_20260921_193535.mp4,8.7,p01,normal,2,2,1.0,,esperando clase 0,1.39,filtro
+clase_2_20260921_193535.mp4,8.7333,p01,normal,2,2,0.9912,,esperando clase 0,2.23,filtro
+clase_2_20260921_193535.mp4,8.7667,p01,normal,2,2,0.9987,,esperando clase 0,2.28,filtro
+clase_2_20260921_193535.mp4,8.8,p01,normal,2,2,0.9984,,esperando clase 0,1.93,filtro
+clase_2_20260921_193535.mp4,8.8333,p01,normal,2,2,0.988,,esperando clase 0,1.47,filtro
+clase_2_20260921_193535.mp4,8.8667,p01,normal,2,2,0.9931,,esperando clase 0,1.41,filtro
+clase_2_20260921_193535.mp4,8.9,p01,normal,2,2,0.9437,,esperando clase 0,1.62,filtro
+clase_2_20260921_193535.mp4,8.9333,p01,normal,2,2,0.9713,,esperando clase 0,1.51,filtro
+clase_2_20260921_193535.mp4,8.9667,p01,normal,2,2,0.9746,,esperando clase 0,1.42,filtro
+clase_2_20260921_193535.mp4,9.0,p01,normal,2,2,0.9773,,esperando clase 0,2.12,filtro
+clase_2_20260921_193535.mp4,9.0333,p01,normal,2,2,0.9644,,esperando clase 0,2.4,filtro
+clase_2_20260921_193535.mp4,9.0667,p01,normal,2,2,0.9645,,esperando clase 0,1.99,filtro
+clase_2_20260921_193535.mp4,9.1,p01,normal,2,2,0.9806,,esperando clase 0,2.01,filtro
+clase_2_20260921_193535.mp4,9.1333,p01,normal,2,2,0.9625,,esperando clase 0,1.52,filtro
+clase_2_20260921_193535.mp4,9.1667,p01,normal,2,2,0.9919,,esperando clase 0,2.02,filtro
+clase_2_20260921_193535.mp4,9.2,p01,normal,2,2,0.998,,esperando clase 0,1.51,filtro
+clase_2_20260921_193535.mp4,9.2333,p01,normal,2,2,0.9994,,esperando clase 0,1.39,filtro
+clase_2_20260921_193535.mp4,9.2667,p01,normal,2,2,0.9998,,esperando clase 0,2.53,filtro
+clase_2_20260921_193535.mp4,9.3,p01,normal,2,2,0.9999,,esperando clase 0,2.45,filtro
+clase_2_20260921_193535.mp4,9.3333,p01,normal,2,2,0.9997,,esperando clase 0,1.85,filtro
+clase_2_20260921_193535.mp4,9.3667,p01,normal,2,2,0.9998,,esperando clase 0,1.44,filtro
+clase_2_20260921_193535.mp4,9.4,p01,normal,2,2,0.9999,,esperando clase 0,1.4,filtro
+clase_2_20260921_193535.mp4,9.4333,p01,normal,2,2,0.9974,,esperando clase 0,1.41,filtro
+clase_2_20260921_193535.mp4,9.4667,p01,normal,2,2,0.999,,esperando clase 0,1.42,filtro
+clase_2_20260921_193535.mp4,9.5,p01,normal,2,2,0.9998,,esperando clase 0,1.31,filtro
+clase_2_20260921_193535.mp4,9.5333,p01,normal,2,2,0.9986,,esperando clase 0,2.17,filtro
+clase_2_20260921_193535.mp4,9.5667,p01,normal,2,2,0.9974,,esperando clase 0,2.45,filtro
+clase_2_20260921_193535.mp4,9.6,p01,normal,2,2,0.9992,,esperando clase 0,2.02,filtro
+clase_2_20260921_193535.mp4,9.6333,p01,normal,2,2,0.9991,,esperando clase 0,1.7,filtro
+clase_2_20260921_193535.mp4,9.6667,p01,normal,2,2,0.9936,,esperando clase 0,1.35,filtro
+clase_2_20260921_193535.mp4,9.7,p01,normal,2,2,0.9968,,esperando clase 0,1.27,filtro
+clase_2_20260921_193535.mp4,9.7333,p01,normal,2,2,0.9988,,esperando clase 0,1.33,filtro
+clase_2_20260921_193535.mp4,9.7667,p01,normal,2,2,0.9997,,esperando clase 0,1.34,filtro
+clase_2_20260921_193535.mp4,9.8,p01,normal,2,2,0.9999,,esperando clase 0,1.57,filtro
+clase_2_20260921_193535.mp4,9.8333,p01,normal,2,2,0.9999,,esperando clase 0,2.28,filtro
+clase_2_20260921_193535.mp4,9.8667,p01,normal,2,2,0.9999,,esperando clase 0,2.18,filtro
+clase_2_20260921_193535.mp4,9.9,p01,normal,2,2,0.9999,,esperando clase 0,1.64,filtro
+clase_2_20260921_193535.mp4,9.9333,p01,normal,2,2,0.9999,,esperando clase 0,1.35,filtro
+clase_2_20260921_193535.mp4,9.9667,p01,normal,2,2,1.0,,esperando clase 0,2.0,filtro
+clase_3_20260921_193558.mp4,0.0,p01,normal,3,2,0.9395,,inestable,2.0,datos/modelo
+clase_3_20260921_193558.mp4,0.0333,p01,normal,3,2,0.9506,,inestable,1.45,datos/modelo
+clase_3_20260921_193558.mp4,0.0667,p01,normal,3,2,0.9509,,inestable,1.71,datos/modelo
+clase_3_20260921_193558.mp4,0.1,p01,normal,3,2,0.8425,,baja confianza,2.67,datos/modelo
+clase_3_20260921_193558.mp4,0.1333,p01,normal,3,2,0.4996,,baja confianza,2.59,datos/modelo
+clase_3_20260921_193558.mp4,0.1667,p01,normal,3,2,0.9731,,inestable,2.08,datos/modelo
+clase_3_20260921_193558.mp4,0.2,p01,normal,3,3,0.5451,,baja confianza,1.54,filtro
+clase_3_20260921_193558.mp4,0.2333,p01,normal,3,2,0.7498,,baja confianza,1.6,datos/modelo
+clase_3_20260921_193558.mp4,0.2667,p01,normal,3,2,0.9494,,inestable,1.53,datos/modelo
+clase_3_20260921_193558.mp4,0.3,p01,normal,3,2,0.9628,,inestable,1.99,datos/modelo
+clase_3_20260921_193558.mp4,0.3333,p01,normal,3,2,0.9585,,inestable,2.7,datos/modelo
+clase_3_20260921_193558.mp4,0.3667,p01,normal,3,2,0.9517,,inestable,2.08,datos/modelo
+clase_3_20260921_193558.mp4,0.4,p01,normal,3,2,0.9326,2,,2.21,datos/modelo
+clase_3_20260921_193558.mp4,0.4333,p01,normal,3,2,0.9856,,cooldown,1.94,datos/modelo
+clase_3_20260921_193558.mp4,0.4667,p01,normal,3,2,0.9293,,cooldown,1.53,datos/modelo
+clase_3_20260921_193558.mp4,0.5,p01,normal,3,2,0.7233,,cooldown,1.43,datos/modelo
+clase_3_20260921_193558.mp4,0.5333,p01,normal,3,2,0.9289,,cooldown,2.2,datos/modelo
+clase_3_20260921_193558.mp4,0.5667,p01,normal,3,2,0.824,,cooldown,2.56,datos/modelo
+clase_3_20260921_193558.mp4,0.6,p01,normal,3,2,0.8667,,cooldown,2.21,datos/modelo
+clase_3_20260921_193558.mp4,0.6333,p01,normal,3,2,0.7701,,cooldown,1.91,datos/modelo
+clase_3_20260921_193558.mp4,0.6667,p01,normal,3,2,0.8634,,cooldown,1.89,datos/modelo
+clase_3_20260921_193558.mp4,0.7,p01,normal,3,2,0.9035,,cooldown,1.54,datos/modelo
+clase_3_20260921_193558.mp4,0.7333,p01,normal,3,2,0.7644,,cooldown,1.47,datos/modelo
+clase_3_20260921_193558.mp4,0.7667,p01,normal,3,2,0.9623,,cooldown,1.93,datos/modelo
+clase_3_20260921_193558.mp4,0.8,p01,normal,3,2,0.8594,,cooldown,3.25,datos/modelo
+clase_3_20260921_193558.mp4,0.8333,p01,normal,3,2,0.8533,,cooldown,2.43,datos/modelo
+clase_3_20260921_193558.mp4,0.8667,p01,normal,3,2,0.5225,,cooldown,1.96,datos/modelo
+clase_3_20260921_193558.mp4,0.9,p01,normal,3,2,0.5732,,cooldown,1.74,datos/modelo
+clase_3_20260921_193558.mp4,0.9333,p01,normal,3,2,0.6517,,cooldown,1.45,datos/modelo
+clase_3_20260921_193558.mp4,0.9667,p01,normal,3,2,0.9471,,cooldown,1.77,datos/modelo
+clase_3_20260921_193558.mp4,1.0,p01,normal,3,2,0.9164,,cooldown,2.48,datos/modelo
+clase_3_20260921_193558.mp4,1.0333,p01,normal,3,2,0.9046,,cooldown,2.17,datos/modelo
+clase_3_20260921_193558.mp4,1.0667,p01,normal,3,2,0.9218,,cooldown,2.21,datos/modelo
+clase_3_20260921_193558.mp4,1.1,p01,normal,3,2,0.9228,,cooldown,1.94,datos/modelo
+clase_3_20260921_193558.mp4,1.1333,p01,normal,3,2,0.8731,,cooldown,1.55,datos/modelo
+clase_3_20260921_193558.mp4,1.1667,p01,normal,3,2,0.8761,,cooldown,1.51,datos/modelo
+clase_3_20260921_193558.mp4,1.2,p01,normal,3,2,0.8735,,cooldown,1.43,datos/modelo
+clase_3_20260921_193558.mp4,1.2333,p01,normal,3,2,0.944,,cooldown,1.38,datos/modelo
+clase_3_20260921_193558.mp4,1.2667,p01,normal,3,2,0.9262,,cooldown,2.41,datos/modelo
+clase_3_20260921_193558.mp4,1.3,p01,normal,3,2,0.9692,,cooldown,2.24,datos/modelo
+clase_3_20260921_193558.mp4,1.3333,p01,normal,3,2,0.8531,,cooldown,1.85,datos/modelo
+clase_3_20260921_193558.mp4,1.3667,p01,normal,3,2,0.9346,,cooldown,1.49,datos/modelo
+clase_3_20260921_193558.mp4,1.4,p01,normal,3,2,0.9579,,cooldown,1.44,datos/modelo
+clase_3_20260921_193558.mp4,1.4333,p01,normal,3,2,0.9474,,cooldown,1.52,datos/modelo
+clase_3_20260921_193558.mp4,1.4667,p01,normal,3,2,0.9653,,cooldown,1.66,datos/modelo
+clase_3_20260921_193558.mp4,1.5,p01,normal,3,2,0.9448,,cooldown,1.43,datos/modelo
+clase_3_20260921_193558.mp4,1.5333,p01,normal,3,2,0.9387,,cooldown,2.39,datos/modelo
+clase_3_20260921_193558.mp4,1.5667,p01,normal,3,2,0.8772,,cooldown,2.44,datos/modelo
+clase_3_20260921_193558.mp4,1.6,p01,normal,3,2,0.8938,,esperando clase 0,1.95,datos/modelo
+clase_3_20260921_193558.mp4,1.6333,p01,normal,3,2,0.748,,esperando clase 0,1.57,datos/modelo
+clase_3_20260921_193558.mp4,1.6667,p01,normal,3,2,0.6016,,esperando clase 0,1.46,datos/modelo
+clase_3_20260921_193558.mp4,1.7,p01,normal,3,2,0.5986,,esperando clase 0,1.73,datos/modelo
+clase_3_20260921_193558.mp4,1.7333,p01,normal,3,2,0.6358,,esperando clase 0,1.34,datos/modelo
+clase_3_20260921_193558.mp4,1.7667,p01,normal,3,2,0.6669,,esperando clase 0,1.37,datos/modelo
+clase_3_20260921_193558.mp4,1.8,p01,normal,3,2,0.6757,,esperando clase 0,2.31,datos/modelo
+clase_3_20260921_193558.mp4,1.8333,p01,normal,3,2,0.7113,,esperando clase 0,2.37,datos/modelo
+clase_3_20260921_193558.mp4,1.8667,p01,normal,3,2,0.8223,,esperando clase 0,1.86,datos/modelo
+clase_3_20260921_193558.mp4,1.9,p01,normal,3,2,0.7266,,esperando clase 0,1.56,datos/modelo
+clase_3_20260921_193558.mp4,1.9333,p01,normal,3,2,0.8161,,esperando clase 0,1.5,datos/modelo
+clase_3_20260921_193558.mp4,1.9667,p01,normal,3,2,0.8391,,esperando clase 0,1.38,datos/modelo
+clase_3_20260921_193558.mp4,2.0,p01,normal,3,2,0.8553,,esperando clase 0,1.49,datos/modelo
+clase_3_20260921_193558.mp4,2.0333,p01,normal,3,2,0.8699,,esperando clase 0,1.43,datos/modelo
+clase_3_20260921_193558.mp4,2.0667,p01,normal,3,2,0.9515,,esperando clase 0,2.52,datos/modelo
+clase_3_20260921_193558.mp4,2.1,p01,normal,3,2,0.9308,,esperando clase 0,2.35,datos/modelo
+clase_3_20260921_193558.mp4,2.1333,p01,normal,3,2,0.7367,,esperando clase 0,1.81,datos/modelo
+clase_3_20260921_193558.mp4,2.1667,p01,normal,3,2,0.7246,,esperando clase 0,1.62,datos/modelo
+clase_3_20260921_193558.mp4,2.2,p01,normal,3,2,0.7494,,esperando clase 0,1.49,datos/modelo
+clase_3_20260921_193558.mp4,2.2333,p01,normal,3,4,0.5294,,esperando clase 0,1.39,datos/modelo
+clase_3_20260921_193558.mp4,2.2667,p01,normal,3,2,0.4191,,esperando clase 0,1.43,datos/modelo
+clase_3_20260921_193558.mp4,2.3,p01,normal,3,3,0.6895,,esperando clase 0,1.4,filtro
+clase_3_20260921_193558.mp4,2.3333,p01,normal,3,3,0.7009,,esperando clase 0,2.4,filtro
+clase_3_20260921_193558.mp4,2.3667,p01,normal,3,2,0.515,,esperando clase 0,2.38,datos/modelo
+clase_3_20260921_193558.mp4,2.4,p01,normal,3,2,0.5012,,esperando clase 0,2.11,datos/modelo
+clase_3_20260921_193558.mp4,2.4333,p01,normal,3,3,0.7888,,esperando clase 0,1.54,filtro
+clase_3_20260921_193558.mp4,2.4667,p01,normal,3,3,0.7055,,esperando clase 0,1.47,filtro
+clase_3_20260921_193558.mp4,2.5,p01,normal,3,3,0.5484,,esperando clase 0,1.32,filtro
+clase_3_20260921_193558.mp4,2.5333,p01,normal,3,2,0.5382,,esperando clase 0,1.45,datos/modelo
+clase_3_20260921_193558.mp4,2.5667,p01,normal,3,2,0.5907,,esperando clase 0,1.43,datos/modelo
+clase_3_20260921_193558.mp4,2.6,p01,normal,3,3,0.5205,,esperando clase 0,3.0,filtro
+clase_3_20260921_193558.mp4,2.6333,p01,normal,3,3,0.7382,,esperando clase 0,2.03,filtro
+clase_3_20260921_193558.mp4,2.6667,p01,normal,3,3,0.7553,,esperando clase 0,1.97,filtro
+clase_3_20260921_193558.mp4,2.7,p01,normal,3,3,0.9566,,esperando clase 0,1.62,filtro
+clase_3_20260921_193558.mp4,2.7333,p01,normal,3,3,0.98,,esperando clase 0,1.47,filtro
+clase_3_20260921_193558.mp4,2.7667,p01,normal,3,3,0.9852,,esperando clase 0,1.38,filtro
+clase_3_20260921_193558.mp4,2.8,p01,normal,3,3,0.9815,,esperando clase 0,1.45,filtro
+clase_3_20260921_193558.mp4,2.8333,p01,normal,3,3,0.993,,esperando clase 0,1.3,filtro
+clase_3_20260921_193558.mp4,2.8667,p01,normal,3,3,0.986,,esperando clase 0,2.29,filtro
+clase_3_20260921_193558.mp4,2.9,p01,normal,3,3,0.9955,,esperando clase 0,2.24,filtro
+clase_3_20260921_193558.mp4,2.9333,p01,normal,3,3,0.9891,,esperando clase 0,1.86,filtro
+clase_3_20260921_193558.mp4,2.9667,p01,normal,3,3,0.937,,esperando clase 0,1.42,filtro
+clase_3_20260921_193558.mp4,3.0,p01,normal,3,3,0.8756,,esperando clase 0,1.41,filtro
+clase_3_20260921_193558.mp4,3.0333,p01,normal,3,3,0.9776,,esperando clase 0,1.4,filtro
+clase_3_20260921_193558.mp4,3.0667,p01,normal,3,3,0.9706,,esperando clase 0,1.44,filtro
+clase_3_20260921_193558.mp4,3.1,p01,normal,3,3,0.9533,,esperando clase 0,1.56,filtro
+clase_3_20260921_193558.mp4,3.1333,p01,normal,3,3,0.9721,,esperando clase 0,1.97,filtro
+clase_3_20260921_193558.mp4,3.1667,p01,normal,3,3,0.9491,,esperando clase 0,2.41,filtro
+clase_3_20260921_193558.mp4,3.2,p01,normal,3,3,0.9568,,esperando clase 0,2.35,filtro
+clase_3_20260921_193558.mp4,3.2333,p01,normal,3,3,0.9845,,esperando clase 0,1.7,filtro
+clase_3_20260921_193558.mp4,3.2667,p01,normal,3,3,0.5315,,esperando clase 0,2.2,filtro
+clase_3_20260921_193558.mp4,3.3,p01,normal,3,3,0.7204,,esperando clase 0,1.78,filtro
+clase_3_20260921_193558.mp4,3.3333,p01,normal,3,3,0.9353,,esperando clase 0,2.06,filtro
+clase_3_20260921_193558.mp4,3.3667,p01,normal,3,4,0.6596,,esperando clase 0,2.54,datos/modelo
+clase_3_20260921_193558.mp4,3.4,p01,normal,3,3,0.9112,,esperando clase 0,2.55,filtro
+clase_3_20260921_193558.mp4,3.4333,p01,normal,3,3,0.7044,,esperando clase 0,1.84,filtro
+clase_3_20260921_193558.mp4,3.4667,p01,normal,3,3,0.9504,,esperando clase 0,1.51,filtro
+clase_3_20260921_193558.mp4,3.5,p01,normal,3,3,0.9857,,esperando clase 0,1.38,filtro
+clase_3_20260921_193558.mp4,3.5333,p01,normal,3,3,0.9944,,esperando clase 0,1.42,filtro
+clase_3_20260921_193558.mp4,3.5667,p01,normal,3,3,0.9898,,esperando clase 0,1.33,filtro
+clase_3_20260921_193558.mp4,3.6,p01,normal,3,3,0.9843,,esperando clase 0,1.41,filtro
+clase_3_20260921_193558.mp4,3.6333,p01,normal,3,3,0.7217,,esperando clase 0,3.28,filtro
+clase_3_20260921_193558.mp4,3.6667,p01,normal,3,3,0.9847,,esperando clase 0,2.28,filtro
+clase_3_20260921_193558.mp4,3.7,p01,normal,3,3,0.9776,,esperando clase 0,1.62,filtro
+clase_3_20260921_193558.mp4,3.7333,p01,normal,3,3,0.926,,esperando clase 0,1.51,filtro
+clase_3_20260921_193558.mp4,3.7667,p01,normal,3,3,0.9155,,esperando clase 0,1.37,filtro
+clase_3_20260921_193558.mp4,3.8,p01,normal,3,3,0.9467,,esperando clase 0,1.42,filtro
+clase_3_20260921_193558.mp4,3.8333,p01,normal,3,3,0.924,,esperando clase 0,1.52,filtro
+clase_3_20260921_193558.mp4,3.8667,p01,normal,3,3,0.8903,,esperando clase 0,1.57,filtro
+clase_3_20260921_193558.mp4,3.9,p01,normal,3,3,0.8762,,esperando clase 0,2.96,filtro
+clase_3_20260921_193558.mp4,3.9333,p01,normal,3,3,0.9272,,esperando clase 0,2.47,filtro
+clase_3_20260921_193558.mp4,3.9667,p01,normal,3,3,0.9271,,esperando clase 0,1.81,filtro
+clase_3_20260921_193558.mp4,4.0,p01,normal,3,3,0.9503,,esperando clase 0,2.04,filtro
+clase_3_20260921_193558.mp4,4.0333,p01,normal,3,3,0.9824,,esperando clase 0,1.44,filtro
+clase_3_20260921_193558.mp4,4.0667,p01,normal,3,3,0.9841,,esperando clase 0,1.49,filtro
+clase_3_20260921_193558.mp4,4.1,p01,normal,3,3,0.9834,,esperando clase 0,1.47,filtro
+clase_3_20260921_193558.mp4,4.1333,p01,normal,3,3,0.9435,,esperando clase 0,2.18,filtro
+clase_3_20260921_193558.mp4,4.1667,p01,normal,3,3,0.9443,,esperando clase 0,2.16,filtro
+clase_3_20260921_193558.mp4,4.2,p01,normal,3,3,0.9043,,esperando clase 0,2.12,filtro
+clase_3_20260921_193558.mp4,4.2333,p01,normal,3,3,0.8238,,esperando clase 0,1.61,filtro
+clase_3_20260921_193558.mp4,4.2667,p01,normal,3,2,0.5613,,esperando clase 0,1.48,datos/modelo
+clase_3_20260921_193558.mp4,4.3,p01,normal,3,2,0.638,,esperando clase 0,1.51,datos/modelo
+clase_3_20260921_193558.mp4,4.3333,p01,normal,3,2,0.5131,,esperando clase 0,1.5,datos/modelo
+clase_3_20260921_193558.mp4,4.3667,p01,normal,3,2,0.7691,,esperando clase 0,1.59,datos/modelo
+clase_3_20260921_193558.mp4,4.4,p01,normal,3,2,0.818,,esperando clase 0,2.16,datos/modelo
+clase_3_20260921_193558.mp4,4.4333,p01,normal,3,2,0.8171,,esperando clase 0,2.34,datos/modelo
+clase_3_20260921_193558.mp4,4.4667,p01,normal,3,2,0.7798,,esperando clase 0,2.15,datos/modelo
+clase_3_20260921_193558.mp4,4.5,p01,normal,3,2,0.892,,esperando clase 0,1.86,datos/modelo
+clase_3_20260921_193558.mp4,4.5333,p01,normal,3,2,0.8886,,esperando clase 0,1.51,datos/modelo
+clase_3_20260921_193558.mp4,4.5667,p01,normal,3,2,0.865,,esperando clase 0,1.47,datos/modelo
+clase_3_20260921_193558.mp4,4.6,p01,normal,3,2,0.8098,,esperando clase 0,1.41,datos/modelo
+clase_3_20260921_193558.mp4,4.6333,p01,normal,3,2,0.6279,,esperando clase 0,1.46,datos/modelo
+clase_3_20260921_193558.mp4,4.6667,p01,normal,3,2,0.6682,,esperando clase 0,2.41,datos/modelo
+clase_3_20260921_193558.mp4,4.7,p01,normal,3,3,0.6567,,esperando clase 0,2.56,filtro
+clase_3_20260921_193558.mp4,4.7333,p01,normal,3,3,0.6553,,esperando clase 0,1.98,filtro
+clase_3_20260921_193558.mp4,4.7667,p01,normal,3,3,0.9173,,esperando clase 0,1.5,filtro
+clase_3_20260921_193558.mp4,4.8,p01,normal,3,3,0.8475,,esperando clase 0,1.6,filtro
+clase_3_20260921_193558.mp4,4.8333,p01,normal,3,3,0.9254,,esperando clase 0,1.45,filtro
+clase_3_20260921_193558.mp4,4.8667,p01,normal,3,3,0.9227,,esperando clase 0,1.6,filtro
+clase_3_20260921_193558.mp4,4.9,p01,normal,3,3,0.9603,,esperando clase 0,1.69,filtro
+clase_3_20260921_193558.mp4,4.9333,p01,normal,3,3,0.8824,,esperando clase 0,3.06,filtro
+clase_3_20260921_193558.mp4,4.9667,p01,normal,3,3,0.9082,,esperando clase 0,2.34,filtro
+clase_3_20260921_193558.mp4,5.0,p01,normal,3,3,0.82,,esperando clase 0,1.87,filtro
+clase_3_20260921_193558.mp4,5.0333,p01,normal,3,3,0.8955,,esperando clase 0,1.52,filtro
+clase_3_20260921_193558.mp4,5.0667,p01,normal,3,3,0.9084,,esperando clase 0,1.47,filtro
+clase_3_20260921_193558.mp4,5.1,p01,normal,3,3,0.9372,,esperando clase 0,1.32,filtro
+clase_3_20260921_193558.mp4,5.1333,p01,normal,3,3,0.9555,,esperando clase 0,1.37,filtro
+clase_3_20260921_193558.mp4,5.1667,p01,normal,3,3,0.8815,,esperando clase 0,1.64,filtro
+clase_3_20260921_193558.mp4,5.2,p01,normal,3,3,0.945,,esperando clase 0,2.6,filtro
+clase_3_20260921_193558.mp4,5.2333,p01,normal,3,3,0.9431,,esperando clase 0,1.92,filtro
+clase_3_20260921_193558.mp4,5.2667,p01,normal,3,3,0.9129,,esperando clase 0,1.82,filtro
+clase_3_20260921_193558.mp4,5.3,p01,normal,3,3,0.9632,,esperando clase 0,1.9,filtro
+clase_3_20260921_193558.mp4,5.3333,p01,normal,3,3,0.9675,,esperando clase 0,1.75,filtro
+clase_3_20260921_193558.mp4,5.3667,p01,normal,3,3,0.9897,,esperando clase 0,1.47,filtro
+clase_3_20260921_193558.mp4,5.4,p01,normal,3,3,0.9789,,esperando clase 0,1.46,filtro
+clase_3_20260921_193558.mp4,5.4333,p01,normal,3,3,0.9827,,esperando clase 0,3.33,filtro
+clase_3_20260921_193558.mp4,5.4667,p01,normal,3,3,0.9821,,esperando clase 0,2.5,filtro
+clase_3_20260921_193558.mp4,5.5,p01,normal,3,3,0.9864,,esperando clase 0,2.13,filtro
+clase_3_20260921_193558.mp4,5.5333,p01,normal,3,3,0.9738,,esperando clase 0,1.45,filtro
+clase_3_20260921_193558.mp4,5.5667,p01,normal,3,3,0.9891,,esperando clase 0,1.43,filtro
+clase_3_20260921_193558.mp4,5.6,p01,normal,3,3,0.9626,,esperando clase 0,1.45,filtro
+clase_3_20260921_193558.mp4,5.6333,p01,normal,3,3,0.9795,,esperando clase 0,1.44,filtro
+clase_3_20260921_193558.mp4,5.6667,p01,normal,3,3,0.9906,,esperando clase 0,1.67,filtro
+clase_3_20260921_193558.mp4,5.7,p01,normal,3,3,0.9946,,esperando clase 0,2.27,filtro
+clase_3_20260921_193558.mp4,5.7333,p01,normal,3,3,0.9903,,esperando clase 0,2.19,filtro
+clase_3_20260921_193558.mp4,5.7667,p01,normal,3,3,0.9894,,esperando clase 0,1.64,filtro
+clase_3_20260921_193558.mp4,5.8,p01,normal,3,3,0.9785,,esperando clase 0,1.52,filtro
+clase_3_20260921_193558.mp4,5.8333,p01,normal,3,3,0.9755,,esperando clase 0,1.5,filtro
+clase_3_20260921_193558.mp4,5.8667,p01,normal,3,3,0.9741,,esperando clase 0,1.5,filtro
+clase_3_20260921_193558.mp4,5.9,p01,normal,3,3,0.9842,,esperando clase 0,1.48,filtro
+clase_3_20260921_193558.mp4,5.9333,p01,normal,3,3,0.9782,,esperando clase 0,1.53,filtro
+clase_3_20260921_193558.mp4,5.9667,p01,normal,3,3,0.9648,,esperando clase 0,2.26,filtro
+clase_3_20260921_193558.mp4,6.0,p01,normal,3,3,0.9594,,esperando clase 0,2.36,filtro
+clase_3_20260921_193558.mp4,6.0333,p01,normal,3,3,0.9642,,esperando clase 0,1.75,filtro
+clase_3_20260921_193558.mp4,6.0667,p01,normal,3,3,0.9614,,esperando clase 0,1.61,filtro
+clase_3_20260921_193558.mp4,6.1,p01,normal,3,3,0.9674,,esperando clase 0,1.45,filtro
+clase_3_20260921_193558.mp4,6.1333,p01,normal,3,3,0.9504,,esperando clase 0,1.4,filtro
+clase_3_20260921_193558.mp4,6.1667,p01,normal,3,3,0.9628,,esperando clase 0,1.45,filtro
+clase_3_20260921_193558.mp4,6.2,p01,normal,3,3,0.9513,,esperando clase 0,1.4,filtro
+clase_3_20260921_193558.mp4,6.2333,p01,normal,3,3,0.9514,,esperando clase 0,2.54,filtro
+clase_3_20260921_193558.mp4,6.2667,p01,normal,3,3,0.9341,,esperando clase 0,2.48,filtro
+clase_3_20260921_193558.mp4,6.3,p01,normal,3,3,0.9544,,esperando clase 0,1.86,filtro
+clase_3_20260921_193558.mp4,6.3333,p01,normal,3,3,0.8852,,esperando clase 0,1.51,filtro
+clase_3_20260921_193558.mp4,6.3667,p01,normal,3,3,0.9513,,esperando clase 0,1.39,filtro
+clase_3_20260921_193558.mp4,6.4,p01,normal,3,3,0.9712,,esperando clase 0,1.4,filtro
+clase_3_20260921_193558.mp4,6.4333,p01,normal,3,3,0.894,,esperando clase 0,1.34,filtro
+clase_3_20260921_193558.mp4,6.4667,p01,normal,3,3,0.8986,,esperando clase 0,1.63,filtro
+clase_3_20260921_193558.mp4,6.5,p01,normal,3,3,0.963,,esperando clase 0,2.24,filtro
+clase_3_20260921_193558.mp4,6.5333,p01,normal,3,3,0.9654,,esperando clase 0,2.17,filtro
+clase_3_20260921_193558.mp4,6.5667,p01,normal,3,3,0.9433,,esperando clase 0,2.06,filtro
+clase_3_20260921_193558.mp4,6.6,p01,normal,3,3,0.5707,,esperando clase 0,1.55,filtro
+clase_3_20260921_193558.mp4,6.6333,p01,normal,3,3,0.917,,esperando clase 0,1.48,filtro
+clase_3_20260921_193558.mp4,6.6667,p01,normal,3,3,0.6376,,esperando clase 0,1.47,filtro
+clase_3_20260921_193558.mp4,6.7,p01,normal,3,3,0.8915,,esperando clase 0,1.39,filtro
+clase_3_20260921_193558.mp4,6.7333,p01,normal,3,3,0.7074,,esperando clase 0,1.38,filtro
+clase_3_20260921_193558.mp4,6.7667,p01,normal,3,3,0.8458,,esperando clase 0,1.9,filtro
+clase_3_20260921_193558.mp4,6.8,p01,normal,3,3,0.7679,,esperando clase 0,2.41,filtro
+clase_3_20260921_193558.mp4,6.8333,p01,normal,3,3,0.8349,,esperando clase 0,2.12,filtro
+clase_3_20260921_193558.mp4,6.8667,p01,normal,3,3,0.7704,,esperando clase 0,1.62,filtro
+clase_3_20260921_193558.mp4,6.9,p01,normal,3,3,0.7771,,esperando clase 0,1.47,filtro
+clase_3_20260921_193558.mp4,6.9333,p01,normal,3,3,0.8179,,esperando clase 0,1.44,filtro
+clase_3_20260921_193558.mp4,6.9667,p01,normal,3,3,0.8031,,esperando clase 0,1.44,filtro
+clase_3_20260921_193558.mp4,7.0,p01,normal,3,3,0.8416,,esperando clase 0,1.39,filtro
+clase_3_20260921_193558.mp4,7.0333,p01,normal,3,3,0.8395,,esperando clase 0,1.52,filtro
+clase_3_20260921_193558.mp4,7.0667,p01,normal,3,3,0.7769,,esperando clase 0,2.59,filtro
+clase_3_20260921_193558.mp4,7.1,p01,normal,3,3,0.9018,,esperando clase 0,2.34,filtro
+clase_3_20260921_193558.mp4,7.1333,p01,normal,3,3,0.7566,,esperando clase 0,1.68,filtro
+clase_3_20260921_193558.mp4,7.1667,p01,normal,3,3,0.8906,,esperando clase 0,1.66,filtro
+clase_3_20260921_193558.mp4,7.2,p01,normal,3,3,0.9098,,esperando clase 0,1.44,filtro
+clase_3_20260921_193558.mp4,7.2333,p01,normal,3,3,0.9286,,esperando clase 0,1.51,filtro
+clase_3_20260921_193558.mp4,7.2667,p01,normal,3,3,0.9244,,esperando clase 0,1.5,filtro
+clase_3_20260921_193558.mp4,7.3,p01,normal,3,3,0.9455,,esperando clase 0,1.83,filtro
+clase_3_20260921_193558.mp4,7.3333,p01,normal,3,3,0.9458,,esperando clase 0,2.38,filtro
+clase_3_20260921_193558.mp4,7.3667,p01,normal,3,3,0.9713,,esperando clase 0,2.19,filtro
+clase_3_20260921_193558.mp4,7.4,p01,normal,3,3,0.9477,,esperando clase 0,1.6,filtro
+clase_3_20260921_193558.mp4,7.4333,p01,normal,3,3,0.9799,,esperando clase 0,1.44,filtro
+clase_3_20260921_193558.mp4,7.4667,p01,normal,3,3,0.9891,,esperando clase 0,1.43,filtro
+clase_3_20260921_193558.mp4,7.5,p01,normal,3,3,0.9921,,esperando clase 0,1.46,filtro
+clase_3_20260921_193558.mp4,7.5333,p01,normal,3,3,0.9961,,esperando clase 0,1.44,filtro
+clase_3_20260921_193558.mp4,7.5667,p01,normal,3,3,0.9938,,esperando clase 0,1.46,filtro
+clase_3_20260921_193558.mp4,7.6,p01,normal,3,3,0.9838,,esperando clase 0,2.61,filtro
+clase_3_20260921_193558.mp4,7.6333,p01,normal,3,3,0.9863,,esperando clase 0,2.23,filtro
+clase_3_20260921_193558.mp4,7.6667,p01,normal,3,3,0.9649,,esperando clase 0,1.76,filtro
+clase_3_20260921_193558.mp4,7.7,p01,normal,3,3,0.9661,,esperando clase 0,1.58,filtro
+clase_3_20260921_193558.mp4,7.7333,p01,normal,3,3,0.9506,,esperando clase 0,1.39,filtro
+clase_3_20260921_193558.mp4,7.7667,p01,normal,3,3,0.9712,,esperando clase 0,1.95,filtro
+clase_3_20260921_193558.mp4,7.8,p01,normal,3,3,0.9587,,esperando clase 0,1.4,filtro
+clase_3_20260921_193558.mp4,7.8333,p01,normal,3,3,0.9889,,esperando clase 0,2.17,filtro
+clase_3_20260921_193558.mp4,7.8667,p01,normal,3,3,0.9864,,esperando clase 0,2.38,filtro
+clase_3_20260921_193558.mp4,7.9,p01,normal,3,3,0.99,,esperando clase 0,2.02,filtro
+clase_3_20260921_193558.mp4,7.9333,p01,normal,3,3,0.9889,,esperando clase 0,1.66,filtro
+clase_3_20260921_193558.mp4,7.9667,p01,normal,3,3,0.9948,,esperando clase 0,1.48,filtro
+clase_3_20260921_193558.mp4,8.0,p01,normal,3,3,0.9768,,esperando clase 0,1.36,filtro
+clase_3_20260921_193558.mp4,8.0333,p01,normal,3,3,0.9865,,esperando clase 0,1.41,filtro
+clase_3_20260921_193558.mp4,8.0667,p01,normal,3,3,0.9919,,esperando clase 0,1.41,filtro
+clase_3_20260921_193558.mp4,8.1,p01,normal,3,3,0.9872,,esperando clase 0,1.41,filtro
+clase_3_20260921_193558.mp4,8.1333,p01,normal,3,3,0.9843,,esperando clase 0,2.3,filtro
+clase_3_20260921_193558.mp4,8.1667,p01,normal,3,3,0.9734,,esperando clase 0,2.1,filtro
+clase_3_20260921_193558.mp4,8.2,p01,normal,3,3,0.9421,,esperando clase 0,1.73,filtro
+clase_3_20260921_193558.mp4,8.2333,p01,normal,3,3,0.9712,,esperando clase 0,1.49,filtro
+clase_3_20260921_193558.mp4,8.2667,p01,normal,3,3,0.9851,,esperando clase 0,1.45,filtro
+clase_3_20260921_193558.mp4,8.3,p01,normal,3,3,0.9804,,esperando clase 0,1.42,filtro
+clase_3_20260921_193558.mp4,8.3333,p01,normal,3,3,0.9682,,esperando clase 0,1.51,filtro
+clase_3_20260921_193558.mp4,8.3667,p01,normal,3,3,0.9679,,esperando clase 0,1.39,filtro
+clase_3_20260921_193558.mp4,8.4,p01,normal,3,3,0.9852,,esperando clase 0,2.3,filtro
+clase_3_20260921_193558.mp4,8.4333,p01,normal,3,3,0.9847,,esperando clase 0,2.07,filtro
+clase_3_20260921_193558.mp4,8.4667,p01,normal,3,3,0.9711,,esperando clase 0,1.92,filtro
+clase_3_20260921_193558.mp4,8.5,p01,normal,3,3,0.9303,,esperando clase 0,1.9,filtro
+clase_3_20260921_193558.mp4,8.5333,p01,normal,3,3,0.899,,esperando clase 0,1.42,filtro
+clase_3_20260921_193558.mp4,8.5667,p01,normal,3,3,0.8032,,esperando clase 0,1.43,filtro
+clase_3_20260921_193558.mp4,8.6,p01,normal,3,3,0.759,,esperando clase 0,1.45,filtro
+clase_3_20260921_193558.mp4,8.6333,p01,normal,3,3,0.6599,,esperando clase 0,1.39,filtro
+clase_3_20260921_193558.mp4,8.6667,p01,normal,3,3,0.4539,,esperando clase 0,2.24,filtro
+clase_3_20260921_193558.mp4,8.7,p01,normal,3,2,0.4852,,esperando clase 0,2.02,datos/modelo
+clase_3_20260921_193558.mp4,8.7333,p01,normal,3,2,0.8844,,esperando clase 0,2.11,datos/modelo
+clase_3_20260921_193558.mp4,8.7667,p01,normal,3,2,0.8969,,esperando clase 0,1.67,datos/modelo
+clase_3_20260921_193558.mp4,8.8,p01,normal,3,2,0.95,,esperando clase 0,1.57,datos/modelo
+clase_3_20260921_193558.mp4,8.8333,p01,normal,3,2,0.933,,esperando clase 0,1.51,datos/modelo
+clase_3_20260921_193558.mp4,8.8667,p01,normal,3,2,0.9725,,esperando clase 0,1.59,datos/modelo
+clase_3_20260921_193558.mp4,8.9,p01,normal,3,2,0.9557,,esperando clase 0,1.4,datos/modelo
+clase_3_20260921_193558.mp4,8.9333,p01,normal,3,2,0.9338,,esperando clase 0,2.2,datos/modelo
+clase_3_20260921_193558.mp4,8.9667,p01,normal,3,2,0.9278,,esperando clase 0,2.18,datos/modelo
+clase_3_20260921_193558.mp4,9.0,p01,normal,3,2,0.9474,,esperando clase 0,1.87,datos/modelo
+clase_3_20260921_193558.mp4,9.0333,p01,normal,3,2,0.8984,,esperando clase 0,1.77,datos/modelo
+clase_3_20260921_193558.mp4,9.0667,p01,normal,3,2,0.8682,,esperando clase 0,1.42,datos/modelo
+clase_3_20260921_193558.mp4,9.1,p01,normal,3,2,0.8405,,esperando clase 0,1.44,datos/modelo
+clase_3_20260921_193558.mp4,9.1333,p01,normal,3,2,0.8798,,esperando clase 0,1.44,datos/modelo
+clase_3_20260921_193558.mp4,9.1667,p01,normal,3,2,0.8432,,esperando clase 0,1.49,datos/modelo
+clase_3_20260921_193558.mp4,9.2,p01,normal,3,2,0.8115,,esperando clase 0,2.32,datos/modelo
+clase_3_20260921_193558.mp4,9.2333,p01,normal,3,4,0.4712,,esperando clase 0,2.28,datos/modelo
+clase_3_20260921_193558.mp4,9.2667,p01,normal,3,2,0.4614,,esperando clase 0,1.79,datos/modelo
+clase_3_20260921_193558.mp4,9.3,p01,normal,3,2,0.5658,,esperando clase 0,1.55,datos/modelo
+clase_3_20260921_193558.mp4,9.3333,p01,normal,3,4,0.7924,,esperando clase 0,1.64,datos/modelo
+clase_3_20260921_193558.mp4,9.3667,p01,normal,3,2,0.465,,esperando clase 0,1.6,datos/modelo
+clase_3_20260921_193558.mp4,9.4,p01,normal,3,2,0.5986,,esperando clase 0,1.44,datos/modelo
+clase_3_20260921_193558.mp4,9.4333,p01,normal,3,2,0.4232,,esperando clase 0,1.47,datos/modelo
+clase_3_20260921_193558.mp4,9.4667,p01,normal,3,2,0.6002,,esperando clase 0,2.23,datos/modelo
+clase_3_20260921_193558.mp4,9.5,p01,normal,3,3,0.4195,,esperando clase 0,2.03,filtro
+clase_3_20260921_193558.mp4,9.5333,p01,normal,3,2,0.5054,,esperando clase 0,1.97,datos/modelo
+clase_3_20260921_193558.mp4,9.5667,p01,normal,3,2,0.69,,esperando clase 0,1.42,datos/modelo
+clase_3_20260921_193558.mp4,9.6,p01,normal,3,2,0.5495,,esperando clase 0,1.45,datos/modelo
+clase_3_20260921_193558.mp4,9.6333,p01,normal,3,4,0.5089,,esperando clase 0,1.4,datos/modelo
+clase_3_20260921_193558.mp4,9.6667,p01,normal,3,4,0.4947,,esperando clase 0,1.42,datos/modelo
+clase_3_20260921_193558.mp4,9.7,p01,normal,3,3,0.6024,,esperando clase 0,1.3,filtro
+clase_3_20260921_193558.mp4,9.7333,p01,normal,3,3,0.7641,,esperando clase 0,1.35,filtro
+clase_3_20260921_193558.mp4,9.7667,p01,normal,3,3,0.9547,,esperando clase 0,1.76,filtro
+clase_3_20260921_193558.mp4,9.8,p01,normal,3,3,0.8667,,esperando clase 0,1.96,filtro
+clase_3_20260921_193558.mp4,9.8333,p01,normal,3,3,0.9962,,esperando clase 0,1.95,filtro
+clase_3_20260921_193558.mp4,9.8667,p01,normal,3,3,0.9981,,esperando clase 0,1.89,filtro
+clase_3_20260921_193558.mp4,9.9,p01,normal,3,3,0.997,,esperando clase 0,1.62,filtro
+clase_3_20260921_193558.mp4,9.9333,p01,normal,3,3,0.9946,,esperando clase 0,1.41,filtro
+clase_3_20260921_193558.mp4,9.9667,p01,normal,3,3,0.9934,,esperando clase 0,1.38,filtro
+clase_4_20260921_193623.mp4,0.0,p01,normal,4,4,0.999,,inestable,2.15,filtro
+clase_4_20260921_193623.mp4,0.0333,p01,normal,4,4,0.9982,,inestable,2.49,filtro
+clase_4_20260921_193623.mp4,0.0667,p01,normal,4,4,0.9982,,inestable,2.19,filtro
+clase_4_20260921_193623.mp4,0.1,p01,normal,4,4,0.9994,,inestable,2.16,filtro
+clase_4_20260921_193623.mp4,0.1333,p01,normal,4,4,0.999,4,,1.88,OK
+clase_4_20260921_193623.mp4,0.1667,p01,normal,4,4,0.9983,,cooldown,1.57,filtro
+clase_4_20260921_193623.mp4,0.2,p01,normal,4,4,0.9962,,cooldown,1.61,filtro
+clase_4_20260921_193623.mp4,0.2333,p01,normal,4,4,0.997,,cooldown,1.42,filtro
+clase_4_20260921_193623.mp4,0.2667,p01,normal,4,4,0.9977,,cooldown,1.81,filtro
+clase_4_20260921_193623.mp4,0.3,p01,normal,4,4,0.9988,,cooldown,2.71,filtro
+clase_4_20260921_193623.mp4,0.3333,p01,normal,4,4,0.9987,,cooldown,2.19,filtro
+clase_4_20260921_193623.mp4,0.3667,p01,normal,4,4,0.9979,,cooldown,2.12,filtro
+clase_4_20260921_193623.mp4,0.4,p01,normal,4,4,0.9973,,cooldown,1.96,filtro
+clase_4_20260921_193623.mp4,0.4333,p01,normal,4,4,0.997,,cooldown,1.46,filtro
+clase_4_20260921_193623.mp4,0.4667,p01,normal,4,4,0.9974,,cooldown,1.38,filtro
+clase_4_20260921_193623.mp4,0.5,p01,normal,4,4,0.995,,cooldown,1.75,filtro
+clase_4_20260921_193623.mp4,0.5333,p01,normal,4,4,0.9945,,cooldown,2.61,filtro
+clase_4_20260921_193623.mp4,0.5667,p01,normal,4,4,0.9945,,cooldown,2.18,filtro
+clase_4_20260921_193623.mp4,0.6,p01,normal,4,4,0.9832,,cooldown,1.99,filtro
+clase_4_20260921_193623.mp4,0.6333,p01,normal,4,4,0.9946,,cooldown,1.79,filtro
+clase_4_20260921_193623.mp4,0.6667,p01,normal,4,4,0.9953,,cooldown,1.57,filtro
+clase_4_20260921_193623.mp4,0.7,p01,normal,4,4,0.9947,,cooldown,1.48,filtro
+clase_4_20260921_193623.mp4,0.7333,p01,normal,4,4,0.9966,,cooldown,1.44,filtro
+clase_4_20260921_193623.mp4,0.7667,p01,normal,4,4,0.9913,,cooldown,2.77,filtro
+clase_4_20260921_193623.mp4,0.8,p01,normal,4,4,0.9909,,cooldown,2.86,filtro
+clase_4_20260921_193623.mp4,0.8333,p01,normal,4,4,0.9917,,cooldown,1.95,filtro
+clase_4_20260921_193623.mp4,0.8667,p01,normal,4,4,0.9961,,cooldown,1.54,filtro
+clase_4_20260921_193623.mp4,0.9,p01,normal,4,4,0.9852,,cooldown,1.44,filtro
+clase_4_20260921_193623.mp4,0.9333,p01,normal,4,4,0.9814,,cooldown,1.5,filtro
+clase_4_20260921_193623.mp4,0.9667,p01,normal,4,4,0.9947,,cooldown,1.44,filtro
+clase_4_20260921_193623.mp4,1.0,p01,normal,4,4,0.9972,,cooldown,2.42,filtro
+clase_4_20260921_193623.mp4,1.0333,p01,normal,4,4,0.9864,,cooldown,2.27,filtro
+clase_4_20260921_193623.mp4,1.0667,p01,normal,4,4,0.9952,,cooldown,2.11,filtro
+clase_4_20260921_193623.mp4,1.1,p01,normal,4,4,0.9849,,cooldown,1.71,filtro
+clase_4_20260921_193623.mp4,1.1333,p01,normal,4,4,0.9883,,cooldown,1.53,filtro
+clase_4_20260921_193623.mp4,1.1667,p01,normal,4,4,0.9913,,cooldown,1.43,filtro
+clase_4_20260921_193623.mp4,1.2,p01,normal,4,4,0.9903,,cooldown,1.43,filtro
+clase_4_20260921_193623.mp4,1.2333,p01,normal,4,4,0.991,,cooldown,1.39,filtro
+clase_4_20260921_193623.mp4,1.2667,p01,normal,4,4,0.9949,,cooldown,3.0,filtro
+clase_4_20260921_193623.mp4,1.3,p01,normal,4,4,0.9888,,cooldown,2.6,filtro
+clase_4_20260921_193623.mp4,1.3333,p01,normal,4,4,0.9931,,esperando clase 0,2.43,filtro
+clase_4_20260921_193623.mp4,1.3667,p01,normal,4,4,0.9968,,esperando clase 0,1.56,filtro
+clase_4_20260921_193623.mp4,1.4,p01,normal,4,4,0.9666,,esperando clase 0,1.54,filtro
+clase_4_20260921_193623.mp4,1.4333,p01,normal,4,4,0.9443,,esperando clase 0,1.52,filtro
+clase_4_20260921_193623.mp4,1.4667,p01,normal,4,4,0.9771,,esperando clase 0,1.47,filtro
+clase_4_20260921_193623.mp4,1.5,p01,normal,4,4,0.8564,,esperando clase 0,2.59,filtro
+clase_4_20260921_193623.mp4,1.5333,p01,normal,4,4,0.9301,,esperando clase 0,3.11,filtro
+clase_4_20260921_193623.mp4,1.5667,p01,normal,4,4,0.9481,,esperando clase 0,2.07,filtro
+clase_4_20260921_193623.mp4,1.6,p01,normal,4,4,0.9544,,esperando clase 0,1.74,filtro
+clase_4_20260921_193623.mp4,1.6333,p01,normal,4,4,0.935,,esperando clase 0,1.62,filtro
+clase_4_20260921_193623.mp4,1.6667,p01,normal,4,4,0.9739,,esperando clase 0,1.82,filtro
+clase_4_20260921_193623.mp4,1.7,p01,normal,4,4,0.9712,,esperando clase 0,1.99,filtro
+clase_4_20260921_193623.mp4,1.7333,p01,normal,4,4,0.9305,,esperando clase 0,3.17,filtro
+clase_4_20260921_193623.mp4,1.7667,p01,normal,4,4,0.9571,,esperando clase 0,2.34,filtro
+clase_4_20260921_193623.mp4,1.8,p01,normal,4,4,0.9228,,esperando clase 0,2.08,filtro
+clase_4_20260921_193623.mp4,1.8333,p01,normal,4,4,0.9123,,esperando clase 0,2.22,filtro
+clase_4_20260921_193623.mp4,1.8667,p01,normal,4,4,0.9361,,esperando clase 0,2.03,filtro
+clase_4_20260921_193623.mp4,1.9,p01,normal,4,4,0.9433,,esperando clase 0,3.12,filtro
+clase_4_20260921_193623.mp4,1.9333,p01,normal,4,4,0.8553,,esperando clase 0,2.78,filtro
+clase_4_20260921_193623.mp4,1.9667,p01,normal,4,4,0.8459,,esperando clase 0,2.33,filtro
+clase_4_20260921_193623.mp4,2.0,p01,normal,4,4,0.9881,,esperando clase 0,1.63,filtro
+clase_4_20260921_193623.mp4,2.0333,p01,normal,4,4,0.9863,,esperando clase 0,1.56,filtro
+clase_4_20260921_193623.mp4,2.0667,p01,normal,4,4,0.9848,,esperando clase 0,1.64,filtro
+clase_4_20260921_193623.mp4,2.1,p01,normal,4,4,0.9733,,esperando clase 0,1.51,filtro
+clase_4_20260921_193623.mp4,2.1333,p01,normal,4,4,0.8819,,esperando clase 0,1.94,filtro
+clase_4_20260921_193623.mp4,2.1667,p01,normal,4,4,0.7455,,esperando clase 0,2.86,filtro
+clase_4_20260921_193623.mp4,2.2,p01,normal,4,4,0.6116,,esperando clase 0,2.72,filtro
+clase_4_20260921_193623.mp4,2.2333,p01,normal,4,4,0.5777,,esperando clase 0,1.7,filtro
+clase_4_20260921_193623.mp4,2.2667,p01,normal,4,4,0.6104,,esperando clase 0,1.7,filtro
+clase_4_20260921_193623.mp4,2.3,p01,normal,4,4,0.8442,,esperando clase 0,1.55,filtro
+clase_4_20260921_193623.mp4,2.3333,p01,normal,4,4,0.8535,,esperando clase 0,1.44,filtro
+clase_4_20260921_193623.mp4,2.3667,p01,normal,4,4,0.9503,,esperando clase 0,2.22,filtro
+clase_4_20260921_193623.mp4,2.4,p01,normal,4,4,0.9678,,esperando clase 0,2.68,filtro
+clase_4_20260921_193623.mp4,2.4333,p01,normal,4,4,0.8854,,esperando clase 0,2.3,filtro
+clase_4_20260921_193623.mp4,2.4667,p01,normal,4,4,0.9569,,esperando clase 0,2.35,filtro
+clase_4_20260921_193623.mp4,2.5,p01,normal,4,4,0.9957,,esperando clase 0,1.72,filtro
+clase_4_20260921_193623.mp4,2.5333,p01,normal,4,4,0.9933,,esperando clase 0,1.53,filtro
+clase_4_20260921_193623.mp4,2.5667,p01,normal,4,4,0.9953,,esperando clase 0,1.5,filtro
+clase_4_20260921_193623.mp4,2.6,p01,normal,4,4,0.9838,,esperando clase 0,3.17,filtro
+clase_4_20260921_193623.mp4,2.6333,p01,normal,4,4,0.9917,,esperando clase 0,2.62,filtro
+clase_4_20260921_193623.mp4,2.6667,p01,normal,4,4,0.9958,,esperando clase 0,1.89,filtro
+clase_4_20260921_193623.mp4,2.7,p01,normal,4,4,0.9977,,esperando clase 0,1.71,filtro
+clase_4_20260921_193623.mp4,2.7333,p01,normal,4,4,0.9968,,esperando clase 0,1.51,filtro
+clase_4_20260921_193623.mp4,2.7667,p01,normal,4,4,0.9981,,esperando clase 0,1.52,filtro
+clase_4_20260921_193623.mp4,2.8,p01,normal,4,4,0.9991,,esperando clase 0,1.63,filtro
+clase_4_20260921_193623.mp4,2.8333,p01,normal,4,4,0.9999,,esperando clase 0,2.59,filtro
+clase_4_20260921_193623.mp4,2.8667,p01,normal,4,4,0.9991,,esperando clase 0,2.22,filtro
+clase_4_20260921_193623.mp4,2.9,p01,normal,4,4,0.9987,,esperando clase 0,1.8,filtro
+clase_4_20260921_193623.mp4,2.9333,p01,normal,4,4,0.9991,,esperando clase 0,1.87,filtro
+clase_4_20260921_193623.mp4,2.9667,p01,normal,4,4,0.999,,esperando clase 0,2.22,filtro
+clase_4_20260921_193623.mp4,3.0,p01,normal,4,4,0.9985,,esperando clase 0,2.25,filtro
+clase_4_20260921_193623.mp4,3.0333,p01,normal,4,4,0.9976,,esperando clase 0,2.74,filtro
+clase_4_20260921_193623.mp4,3.0667,p01,normal,4,4,0.9907,,esperando clase 0,2.28,filtro
+clase_4_20260921_193623.mp4,3.1,p01,normal,4,4,0.9717,,esperando clase 0,2.18,filtro
+clase_4_20260921_193623.mp4,3.1333,p01,normal,4,4,0.9715,,esperando clase 0,1.58,filtro
+clase_4_20260921_193623.mp4,3.1667,p01,normal,4,4,0.9888,,esperando clase 0,1.46,filtro
+clase_4_20260921_193623.mp4,3.2,p01,normal,4,4,0.9255,,esperando clase 0,1.45,filtro
+clase_4_20260921_193623.mp4,3.2333,p01,normal,4,4,0.9723,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,3.2667,p01,normal,4,4,0.9628,,esperando clase 0,1.44,filtro
+clase_4_20260921_193623.mp4,3.3,p01,normal,4,4,0.9804,,esperando clase 0,2.1,filtro
+clase_4_20260921_193623.mp4,3.3333,p01,normal,4,4,0.9875,,esperando clase 0,2.36,filtro
+clase_4_20260921_193623.mp4,3.3667,p01,normal,4,4,0.9979,,esperando clase 0,2.1,filtro
+clase_4_20260921_193623.mp4,3.4,p01,normal,4,4,0.9975,,esperando clase 0,1.72,filtro
+clase_4_20260921_193623.mp4,3.4333,p01,normal,4,4,0.9987,,esperando clase 0,1.86,filtro
+clase_4_20260921_193623.mp4,3.4667,p01,normal,4,4,0.9949,,esperando clase 0,1.48,filtro
+clase_4_20260921_193623.mp4,3.5,p01,normal,4,4,0.9987,,esperando clase 0,1.42,filtro
+clase_4_20260921_193623.mp4,3.5333,p01,normal,4,4,0.9998,,esperando clase 0,1.39,filtro
+clase_4_20260921_193623.mp4,3.5667,p01,normal,4,4,1.0,,esperando clase 0,2.55,filtro
+clase_4_20260921_193623.mp4,3.6,p01,normal,4,4,1.0,,esperando clase 0,2.25,filtro
+clase_4_20260921_193623.mp4,3.6333,p01,normal,4,4,1.0,,esperando clase 0,1.99,filtro
+clase_4_20260921_193623.mp4,3.6667,p01,normal,4,4,1.0,,esperando clase 0,1.77,filtro
+clase_4_20260921_193623.mp4,3.7,p01,normal,4,4,1.0,,esperando clase 0,1.41,filtro
+clase_4_20260921_193623.mp4,3.7333,p01,normal,4,4,1.0,,esperando clase 0,1.36,filtro
+clase_4_20260921_193623.mp4,3.7667,p01,normal,4,4,1.0,,esperando clase 0,1.37,filtro
+clase_4_20260921_193623.mp4,3.8,p01,normal,4,4,1.0,,esperando clase 0,1.37,filtro
+clase_4_20260921_193623.mp4,3.8333,p01,normal,4,4,1.0,,esperando clase 0,1.68,filtro
+clase_4_20260921_193623.mp4,3.8667,p01,normal,4,4,1.0,,esperando clase 0,2.26,filtro
+clase_4_20260921_193623.mp4,3.9,p01,normal,4,4,1.0,,esperando clase 0,2.01,filtro
+clase_4_20260921_193623.mp4,3.9333,p01,normal,4,4,1.0,,esperando clase 0,1.69,filtro
+clase_4_20260921_193623.mp4,3.9667,p01,normal,4,4,1.0,,esperando clase 0,1.44,filtro
+clase_4_20260921_193623.mp4,4.0,p01,normal,4,4,1.0,,esperando clase 0,1.39,filtro
+clase_4_20260921_193623.mp4,4.0333,p01,normal,4,4,1.0,,esperando clase 0,1.33,filtro
+clase_4_20260921_193623.mp4,4.0667,p01,normal,4,4,1.0,,esperando clase 0,1.38,filtro
+clase_4_20260921_193623.mp4,4.1,p01,normal,4,4,1.0,,esperando clase 0,1.6,filtro
+clase_4_20260921_193623.mp4,4.1333,p01,normal,4,4,1.0,,esperando clase 0,4.66,filtro
+clase_4_20260921_193623.mp4,4.1667,p01,normal,4,4,1.0,,esperando clase 0,2.34,filtro
+clase_4_20260921_193623.mp4,4.2,p01,normal,4,4,1.0,,esperando clase 0,1.76,filtro
+clase_4_20260921_193623.mp4,4.2333,p01,normal,4,4,1.0,,esperando clase 0,1.53,filtro
+clase_4_20260921_193623.mp4,4.2667,p01,normal,4,4,1.0,,esperando clase 0,1.37,filtro
+clase_4_20260921_193623.mp4,4.3,p01,normal,4,4,1.0,,esperando clase 0,1.32,filtro
+clase_4_20260921_193623.mp4,4.3333,p01,normal,4,4,1.0,,esperando clase 0,1.56,filtro
+clase_4_20260921_193623.mp4,4.3667,p01,normal,4,4,1.0,,esperando clase 0,2.75,filtro
+clase_4_20260921_193623.mp4,4.4,p01,normal,4,4,1.0,,esperando clase 0,2.27,filtro
+clase_4_20260921_193623.mp4,4.4333,p01,normal,4,4,1.0,,esperando clase 0,1.63,filtro
+clase_4_20260921_193623.mp4,4.4667,p01,normal,4,4,1.0,,esperando clase 0,1.35,filtro
+clase_4_20260921_193623.mp4,4.5,p01,normal,4,4,1.0,,esperando clase 0,1.34,filtro
+clase_4_20260921_193623.mp4,4.5333,p01,normal,4,4,1.0,,esperando clase 0,1.47,filtro
+clase_4_20260921_193623.mp4,4.5667,p01,normal,4,4,1.0,,esperando clase 0,1.34,filtro
+clase_4_20260921_193623.mp4,4.6,p01,normal,4,4,1.0,,esperando clase 0,1.57,filtro
+clase_4_20260921_193623.mp4,4.6333,p01,normal,4,4,1.0,,esperando clase 0,2.32,filtro
+clase_4_20260921_193623.mp4,4.6667,p01,normal,4,4,1.0,,esperando clase 0,2.11,filtro
+clase_4_20260921_193623.mp4,4.7,p01,normal,4,4,1.0,,esperando clase 0,1.83,filtro
+clase_4_20260921_193623.mp4,4.7333,p01,normal,4,4,1.0,,esperando clase 0,1.53,filtro
+clase_4_20260921_193623.mp4,4.7667,p01,normal,4,4,1.0,,esperando clase 0,1.43,filtro
+clase_4_20260921_193623.mp4,4.8,p01,normal,4,4,1.0,,esperando clase 0,1.37,filtro
+clase_4_20260921_193623.mp4,4.8333,p01,normal,4,4,1.0,,esperando clase 0,1.53,filtro
+clase_4_20260921_193623.mp4,4.8667,p01,normal,4,4,1.0,,esperando clase 0,1.5,filtro
+clase_4_20260921_193623.mp4,4.9,p01,normal,4,4,1.0,,esperando clase 0,2.23,filtro
+clase_4_20260921_193623.mp4,4.9333,p01,normal,4,4,1.0,,esperando clase 0,2.35,filtro
+clase_4_20260921_193623.mp4,4.9667,p01,normal,4,4,1.0,,esperando clase 0,1.83,filtro
+clase_4_20260921_193623.mp4,5.0,p01,normal,4,4,1.0,,esperando clase 0,1.43,filtro
+clase_4_20260921_193623.mp4,5.0333,p01,normal,4,4,1.0,,esperando clase 0,1.75,filtro
+clase_4_20260921_193623.mp4,5.0667,p01,normal,4,4,1.0,,esperando clase 0,1.35,filtro
+clase_4_20260921_193623.mp4,5.1,p01,normal,4,4,1.0,,esperando clase 0,1.45,filtro
+clase_4_20260921_193623.mp4,5.1333,p01,normal,4,4,1.0,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,5.1667,p01,normal,4,4,1.0,,esperando clase 0,2.37,filtro
+clase_4_20260921_193623.mp4,5.2,p01,normal,4,4,1.0,,esperando clase 0,2.47,filtro
+clase_4_20260921_193623.mp4,5.2333,p01,normal,4,4,1.0,,esperando clase 0,1.83,filtro
+clase_4_20260921_193623.mp4,5.2667,p01,normal,4,4,1.0,,esperando clase 0,1.45,filtro
+clase_4_20260921_193623.mp4,5.3,p01,normal,4,4,1.0,,esperando clase 0,1.53,filtro
+clase_4_20260921_193623.mp4,5.3333,p01,normal,4,4,1.0,,esperando clase 0,1.38,filtro
+clase_4_20260921_193623.mp4,5.3667,p01,normal,4,4,1.0,,esperando clase 0,1.39,filtro
+clase_4_20260921_193623.mp4,5.4,p01,normal,4,4,1.0,,esperando clase 0,1.36,filtro
+clase_4_20260921_193623.mp4,5.4333,p01,normal,4,4,1.0,,esperando clase 0,2.01,filtro
+clase_4_20260921_193623.mp4,5.4667,p01,normal,4,4,1.0,,esperando clase 0,2.44,filtro
+clase_4_20260921_193623.mp4,5.5,p01,normal,4,4,1.0,,esperando clase 0,2.03,filtro
+clase_4_20260921_193623.mp4,5.5333,p01,normal,4,4,1.0,,esperando clase 0,1.57,filtro
+clase_4_20260921_193623.mp4,5.5667,p01,normal,4,4,1.0,,esperando clase 0,1.86,filtro
+clase_4_20260921_193623.mp4,5.6,p01,normal,4,4,0.9999,,esperando clase 0,1.49,filtro
+clase_4_20260921_193623.mp4,5.6333,p01,normal,4,4,0.9997,,esperando clase 0,1.45,filtro
+clase_4_20260921_193623.mp4,5.6667,p01,normal,4,4,0.9999,,esperando clase 0,1.56,filtro
+clase_4_20260921_193623.mp4,5.7,p01,normal,4,4,0.9993,,esperando clase 0,3.18,filtro
+clase_4_20260921_193623.mp4,5.7333,p01,normal,4,4,0.9964,,esperando clase 0,2.27,filtro
+clase_4_20260921_193623.mp4,5.7667,p01,normal,4,4,0.9917,,esperando clase 0,1.66,filtro
+clase_4_20260921_193623.mp4,5.8,p01,normal,4,4,0.9984,,esperando clase 0,1.73,filtro
+clase_4_20260921_193623.mp4,5.8333,p01,normal,4,4,0.9922,,esperando clase 0,1.89,filtro
+clase_4_20260921_193623.mp4,5.8667,p01,normal,4,4,0.9974,,esperando clase 0,1.84,filtro
+clase_4_20260921_193623.mp4,5.9,p01,normal,4,4,0.9976,,esperando clase 0,2.03,filtro
+clase_4_20260921_193623.mp4,5.9333,p01,normal,4,4,0.9953,,esperando clase 0,3.87,filtro
+clase_4_20260921_193623.mp4,5.9667,p01,normal,4,4,0.9958,,esperando clase 0,2.61,filtro
+clase_4_20260921_193623.mp4,6.0,p01,normal,4,4,0.9986,,esperando clase 0,1.64,filtro
+clase_4_20260921_193623.mp4,6.0333,p01,normal,4,4,0.9998,,esperando clase 0,1.48,filtro
+clase_4_20260921_193623.mp4,6.0667,p01,normal,4,4,0.9998,,esperando clase 0,1.47,filtro
+clase_4_20260921_193623.mp4,6.1,p01,normal,4,4,0.9998,,esperando clase 0,1.54,filtro
+clase_4_20260921_193623.mp4,6.1333,p01,normal,4,4,0.9997,,esperando clase 0,1.58,filtro
+clase_4_20260921_193623.mp4,6.1667,p01,normal,4,4,0.9995,,esperando clase 0,2.38,filtro
+clase_4_20260921_193623.mp4,6.2,p01,normal,4,4,0.9994,,esperando clase 0,2.26,filtro
+clase_4_20260921_193623.mp4,6.2333,p01,normal,4,4,0.9998,,esperando clase 0,1.96,filtro
+clase_4_20260921_193623.mp4,6.2667,p01,normal,4,4,0.9996,,esperando clase 0,1.67,filtro
+clase_4_20260921_193623.mp4,6.3,p01,normal,4,4,0.9996,,esperando clase 0,1.48,filtro
+clase_4_20260921_193623.mp4,6.3333,p01,normal,4,4,0.9994,,esperando clase 0,1.82,filtro
+clase_4_20260921_193623.mp4,6.3667,p01,normal,4,4,0.9984,,esperando clase 0,1.44,filtro
+clase_4_20260921_193623.mp4,6.4,p01,normal,4,4,0.9965,,esperando clase 0,2.24,filtro
+clase_4_20260921_193623.mp4,6.4333,p01,normal,4,4,0.9936,,esperando clase 0,2.22,filtro
+clase_4_20260921_193623.mp4,6.4667,p01,normal,4,4,0.9991,,esperando clase 0,2.12,filtro
+clase_4_20260921_193623.mp4,6.5,p01,normal,4,4,0.9975,,esperando clase 0,1.56,filtro
+clase_4_20260921_193623.mp4,6.5333,p01,normal,4,4,0.9986,,esperando clase 0,1.45,filtro
+clase_4_20260921_193623.mp4,6.5667,p01,normal,4,4,0.9972,,esperando clase 0,1.44,filtro
+clase_4_20260921_193623.mp4,6.6,p01,normal,4,4,0.9773,,esperando clase 0,1.46,filtro
+clase_4_20260921_193623.mp4,6.6333,p01,normal,4,4,0.9866,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,6.6667,p01,normal,4,4,0.9894,,esperando clase 0,1.56,filtro
+clase_4_20260921_193623.mp4,6.7,p01,normal,4,4,0.9943,,esperando clase 0,2.64,filtro
+clase_4_20260921_193623.mp4,6.7333,p01,normal,4,4,0.9813,,esperando clase 0,2.59,filtro
+clase_4_20260921_193623.mp4,6.7667,p01,normal,4,4,0.9898,,esperando clase 0,1.85,filtro
+clase_4_20260921_193623.mp4,6.8,p01,normal,4,4,0.9967,,esperando clase 0,1.89,filtro
+clase_4_20260921_193623.mp4,6.8333,p01,normal,4,4,0.9928,,esperando clase 0,1.46,filtro
+clase_4_20260921_193623.mp4,6.8667,p01,normal,4,4,0.9979,,esperando clase 0,1.99,filtro
+clase_4_20260921_193623.mp4,6.9,p01,normal,4,4,0.9966,,esperando clase 0,1.42,filtro
+clase_4_20260921_193623.mp4,6.9333,p01,normal,4,4,0.9982,,esperando clase 0,2.67,filtro
+clase_4_20260921_193623.mp4,6.9667,p01,normal,4,4,0.9987,,esperando clase 0,2.18,filtro
+clase_4_20260921_193623.mp4,7.0,p01,normal,4,4,0.9982,,esperando clase 0,1.7,filtro
+clase_4_20260921_193623.mp4,7.0333,p01,normal,4,4,0.9984,,esperando clase 0,1.5,filtro
+clase_4_20260921_193623.mp4,7.0667,p01,normal,4,4,0.9986,,esperando clase 0,1.43,filtro
+clase_4_20260921_193623.mp4,7.1,p01,normal,4,4,0.9984,,esperando clase 0,1.39,filtro
+clase_4_20260921_193623.mp4,7.1333,p01,normal,4,4,0.9979,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,7.1667,p01,normal,4,4,0.9981,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,7.2,p01,normal,4,4,0.9959,,esperando clase 0,2.8,filtro
+clase_4_20260921_193623.mp4,7.2333,p01,normal,4,4,0.9964,,esperando clase 0,2.15,filtro
+clase_4_20260921_193623.mp4,7.2667,p01,normal,4,4,0.9692,,esperando clase 0,1.8,filtro
+clase_4_20260921_193623.mp4,7.3,p01,normal,4,4,0.9857,,esperando clase 0,1.53,filtro
+clase_4_20260921_193623.mp4,7.3333,p01,normal,4,4,0.9908,,esperando clase 0,1.46,filtro
+clase_4_20260921_193623.mp4,7.3667,p01,normal,4,4,0.9932,,esperando clase 0,1.77,filtro
+clase_4_20260921_193623.mp4,7.4,p01,normal,4,4,0.9931,,esperando clase 0,1.52,filtro
+clase_4_20260921_193623.mp4,7.4333,p01,normal,4,4,0.9849,,esperando clase 0,1.5,filtro
+clase_4_20260921_193623.mp4,7.4667,p01,normal,4,4,0.9826,,esperando clase 0,2.5,filtro
+clase_4_20260921_193623.mp4,7.5,p01,normal,4,4,0.9926,,esperando clase 0,2.17,filtro
+clase_4_20260921_193623.mp4,7.5333,p01,normal,4,4,0.9967,,esperando clase 0,1.72,filtro
+clase_4_20260921_193623.mp4,7.5667,p01,normal,4,4,0.9987,,esperando clase 0,1.55,filtro
+clase_4_20260921_193623.mp4,7.6,p01,normal,4,4,0.9988,,esperando clase 0,1.49,filtro
+clase_4_20260921_193623.mp4,7.6333,p01,normal,4,4,0.9995,,esperando clase 0,1.54,filtro
+clase_4_20260921_193623.mp4,7.6667,p01,normal,4,4,0.999,,esperando clase 0,1.67,filtro
+clase_4_20260921_193623.mp4,7.7,p01,normal,4,4,0.9995,,esperando clase 0,1.84,filtro
+clase_4_20260921_193623.mp4,7.7333,p01,normal,4,4,0.9992,,esperando clase 0,2.73,filtro
+clase_4_20260921_193623.mp4,7.7667,p01,normal,4,4,0.9995,,esperando clase 0,2.13,filtro
+clase_4_20260921_193623.mp4,7.8,p01,normal,4,4,0.9996,,esperando clase 0,1.84,filtro
+clase_4_20260921_193623.mp4,7.8333,p01,normal,4,4,0.9996,,esperando clase 0,1.53,filtro
+clase_4_20260921_193623.mp4,7.8667,p01,normal,4,4,0.9999,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,7.9,p01,normal,4,4,0.9999,,esperando clase 0,1.42,filtro
+clase_4_20260921_193623.mp4,7.9333,p01,normal,4,4,0.9999,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,7.9667,p01,normal,4,4,0.9999,,esperando clase 0,1.66,filtro
+clase_4_20260921_193623.mp4,8.0,p01,normal,4,4,0.9998,,esperando clase 0,2.39,filtro
+clase_4_20260921_193623.mp4,8.0333,p01,normal,4,4,0.9996,,esperando clase 0,2.15,filtro
+clase_4_20260921_193623.mp4,8.0667,p01,normal,4,4,0.9999,,esperando clase 0,1.63,filtro
+clase_4_20260921_193623.mp4,8.1,p01,normal,4,4,0.9997,,esperando clase 0,1.45,filtro
+clase_4_20260921_193623.mp4,8.1333,p01,normal,4,4,1.0,,esperando clase 0,1.52,filtro
+clase_4_20260921_193623.mp4,8.1667,p01,normal,4,4,0.9998,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,8.2,p01,normal,4,4,1.0,,esperando clase 0,1.46,filtro
+clase_4_20260921_193623.mp4,8.2333,p01,normal,4,4,0.9999,,esperando clase 0,1.44,filtro
+clase_4_20260921_193623.mp4,8.2667,p01,normal,4,4,1.0,,esperando clase 0,2.4,filtro
+clase_4_20260921_193623.mp4,8.3,p01,normal,4,4,1.0,,esperando clase 0,2.29,filtro
+clase_4_20260921_193623.mp4,8.3333,p01,normal,4,4,1.0,,esperando clase 0,1.85,filtro
+clase_4_20260921_193623.mp4,8.3667,p01,normal,4,4,1.0,,esperando clase 0,1.97,filtro
+clase_4_20260921_193623.mp4,8.4,p01,normal,4,4,1.0,,esperando clase 0,1.41,filtro
+clase_4_20260921_193623.mp4,8.4333,p01,normal,4,4,1.0,,esperando clase 0,1.39,filtro
+clase_4_20260921_193623.mp4,8.4667,p01,normal,4,4,1.0,,esperando clase 0,1.36,filtro
+clase_4_20260921_193623.mp4,8.5,p01,normal,4,4,1.0,,esperando clase 0,1.37,filtro
+clase_4_20260921_193623.mp4,8.5333,p01,normal,4,4,0.9999,,esperando clase 0,2.28,filtro
+clase_4_20260921_193623.mp4,8.5667,p01,normal,4,4,1.0,,esperando clase 0,2.14,filtro
+clase_4_20260921_193623.mp4,8.6,p01,normal,4,4,1.0,,esperando clase 0,1.8,filtro
+clase_4_20260921_193623.mp4,8.6333,p01,normal,4,4,1.0,,esperando clase 0,1.52,filtro
+clase_4_20260921_193623.mp4,8.6667,p01,normal,4,4,1.0,,esperando clase 0,1.41,filtro
+clase_4_20260921_193623.mp4,8.7,p01,normal,4,4,1.0,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,8.7333,p01,normal,4,4,1.0,,esperando clase 0,1.47,filtro
+clase_4_20260921_193623.mp4,8.7667,p01,normal,4,4,1.0,,esperando clase 0,1.51,filtro
+clase_4_20260921_193623.mp4,8.8,p01,normal,4,4,1.0,,esperando clase 0,2.36,filtro
+clase_4_20260921_193623.mp4,8.8333,p01,normal,4,4,1.0,,esperando clase 0,2.17,filtro
+clase_4_20260921_193623.mp4,8.8667,p01,normal,4,4,1.0,,esperando clase 0,1.85,filtro
+clase_4_20260921_193623.mp4,8.9,p01,normal,4,4,1.0,,esperando clase 0,1.54,filtro
+clase_4_20260921_193623.mp4,8.9333,p01,normal,4,4,1.0,,esperando clase 0,1.68,filtro
+clase_4_20260921_193623.mp4,8.9667,p01,normal,4,4,1.0,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,9.0,p01,normal,4,4,1.0,,esperando clase 0,1.38,filtro
+clase_4_20260921_193623.mp4,9.0333,p01,normal,4,4,1.0,,esperando clase 0,1.32,filtro
+clase_4_20260921_193623.mp4,9.0667,p01,normal,4,4,1.0,,esperando clase 0,2.26,filtro
+clase_4_20260921_193623.mp4,9.1,p01,normal,4,4,1.0,,esperando clase 0,2.22,filtro
+clase_4_20260921_193623.mp4,9.1333,p01,normal,4,4,1.0,,esperando clase 0,2.09,filtro
+clase_4_20260921_193623.mp4,9.1667,p01,normal,4,4,1.0,,esperando clase 0,1.53,filtro
+clase_4_20260921_193623.mp4,9.2,p01,normal,4,4,1.0,,esperando clase 0,1.43,filtro
+clase_4_20260921_193623.mp4,9.2333,p01,normal,4,4,1.0,,esperando clase 0,1.37,filtro
+clase_4_20260921_193623.mp4,9.2667,p01,normal,4,4,1.0,,esperando clase 0,1.45,filtro
+clase_4_20260921_193623.mp4,9.3,p01,normal,4,4,1.0,,esperando clase 0,1.43,filtro
+clase_4_20260921_193623.mp4,9.3333,p01,normal,4,4,1.0,,esperando clase 0,2.25,filtro
+clase_4_20260921_193623.mp4,9.3667,p01,normal,4,4,1.0,,esperando clase 0,2.39,filtro
+clase_4_20260921_193623.mp4,9.4,p01,normal,4,4,1.0,,esperando clase 0,2.23,filtro
+clase_4_20260921_193623.mp4,9.4333,p01,normal,4,4,1.0,,esperando clase 0,1.76,filtro
+clase_4_20260921_193623.mp4,9.4667,p01,normal,4,4,1.0,,esperando clase 0,1.49,filtro
+clase_4_20260921_193623.mp4,9.5,p01,normal,4,4,1.0,,esperando clase 0,1.51,filtro
+clase_4_20260921_193623.mp4,9.5333,p01,normal,4,4,1.0,,esperando clase 0,1.4,filtro
+clase_4_20260921_193623.mp4,9.5667,p01,normal,4,4,1.0,,esperando clase 0,1.48,filtro
+clase_4_20260921_193623.mp4,9.6,p01,normal,4,4,1.0,,esperando clase 0,2.57,filtro
+clase_4_20260921_193623.mp4,9.6333,p01,normal,4,4,1.0,,esperando clase 0,2.51,filtro
+clase_4_20260921_193623.mp4,9.6667,p01,normal,4,4,1.0,,esperando clase 0,1.94,filtro
+clase_4_20260921_193623.mp4,9.7,p01,normal,4,4,0.9998,,esperando clase 0,1.51,filtro
+clase_4_20260921_193623.mp4,9.7333,p01,normal,4,4,1.0,,esperando clase 0,1.41,filtro
+clase_4_20260921_193623.mp4,9.7667,p01,normal,4,4,1.0,,esperando clase 0,1.38,filtro
+clase_4_20260921_193623.mp4,9.8,p01,normal,4,4,0.9995,,esperando clase 0,1.41,filtro
+clase_4_20260921_193623.mp4,9.8333,p01,normal,4,4,0.9906,,esperando clase 0,1.36,filtro
+clase_4_20260921_193623.mp4,9.8667,p01,normal,4,4,0.9935,,esperando clase 0,2.3,filtro
+clase_4_20260921_193623.mp4,9.9,p01,normal,4,4,0.9731,,esperando clase 0,2.52,filtro
+clase_4_20260921_193623.mp4,9.9333,p01,normal,4,4,0.9892,,esperando clase 0,1.97,filtro
+clase_4_20260921_193623.mp4,9.9667,p01,normal,4,4,0.9957,,esperando clase 0,1.55,filtro

@@ -1,0 +1,24 @@
+============================================================
+ REPORTE ESTADÍSTICO DE PARTICIÓN Y BALANCE
+============================================================
+Estrategia de división: Por sesión
+
+1. DISTRIBUCIÓN POR CLASE Y SPLIT:
+Clase    | Train      | Val        | Test      
+--------------------------------------------
+Clase 0  | 2084       | 412        | 416       
+Clase 1  | 1006       | 222        | 217       
+Clase 2  | 1319       | 237        | 242       
+Clase 3  | 1072       | 296        | 231       
+Clase 4  | 1312       | 276        | 291       
+--------------------------------------------
+TOTAL    | 6793       | 1443       | 1397      
+
+2. DISTRIBUCIÓN POR PERSONA Y SESIÓN:
+  p_ext | external_test [val]: 1443 imágenes
+  p_ext | external_train [train]: 6793 imágenes
+  p_ext | external_val [test]: 1397 imágenes
+
+3. DISTRIBUCIÓN POR CONDICIÓN AMBIENTAL (LUZ / FONDO):
+  Luz: nd | Fondo: nd: 9633 imágenes
+============================================================
