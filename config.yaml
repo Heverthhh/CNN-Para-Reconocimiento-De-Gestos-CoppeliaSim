@@ -1,0 +1,81 @@
+# ==============================================================================
+# CONFIGURACIÓN GENERAL DEL SISTEMA - RECONOCIMIENTO DE DEDOS Y CONTROL ROBÓTICO
+# Práctica de Inteligencia Artificial - Ingeniería Mecatrónica
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. PARÁMETROS DE CAPTURA Y VISIÓN POR COMPUTADOR
+# ------------------------------------------------------------------------------
+camera_id: 0
+flip_horizontal: true           # Modo espejo activado para interacción intuitiva
+
+# Región de Interés [x, y, ancho, alto] dentro del frame de la cámara
+roi: [350, 100, 260, 260]
+
+# Dimensión espacial de entrada para la CNN (S x S)
+img_size: 64
+
+# Modo de representación seleccionado tras el estudio de ablación (95.75% BAcc)
+mode: "masked_gray"             # Opciones: 'mask' | 'masked_gray' | 'gray'
+
+# Rango cromático de piel en espacio de color YCrCb
+cr: [133, 173]
+cb: [77, 127]
+
+# Fracción mínima de área activa en el ROI para validar presencia de mano
+min_area_frac: 0.04
+
+# ------------------------------------------------------------------------------
+# 2. PARÁMETROS DEL MODELO DE APRENDIZAJE PROFUNDO (CNN)
+# ------------------------------------------------------------------------------
+model_weights: "models/best_model.pth"
+num_classes: 5                  # 0: Parada, 1..3: Articulaciones 1..3, 4: Pinza
+
+# ------------------------------------------------------------------------------
+# 3. FILTRO DE SEGURIDAD TEMPORAL (MÁQUINA DE ESTADOS FINITA - FSM)
+# ------------------------------------------------------------------------------
+# Un cuadro de cámara NUNCA produce por sí solo un movimiento mecánico.
+confidence_threshold: 0.85      # Umbral mínimo de confianza Softmax requerido
+window_size: 5                  # Tamaño de la ventana deslizante temporal
+min_votes: 4                    # Quórum mínimo de cuadros idénticos consecutivos
+cooldown_s: 1.2                 # Tiempo de enfriamiento (s) tras emitir un comando
+
+# ------------------------------------------------------------------------------
+# 4. CONFIGURACIÓN DEL ROBOT EN COPPELIASIM (ZMQ REMOTE API)
+# Manipulador PArm (3 GDL activos) + Pinza PGripStraight
+# ------------------------------------------------------------------------------
+robot:
+  # Rutas absolutas a las 3 primeras articulaciones del brazo en CoppeliaSim
+  joints:
+    - "/PArm/joint"                                                        # Joint 1 (Base - Yaw)
+    - "/PArm/joint/link2_respondable/joint"                                # Joint 2 (Hombro - Pitch)
+    - "/PArm/joint/link2_respondable/joint/link3_respondable/joint"        # Joint 3 (Codo - Pitch)
+
+  # Motor activo de la pinza PGripStraight (Handle verificado)
+  gripper_joints:
+    - "/PGripStraight/motor"
+
+  # Objeto de referencia para calcular proximidad de agarre (Grasp)
+  gripper_tip: "/PGripStraight/body"
+
+  # Objetos interactivos en la escena que pueden ser levantados
+  graspable_objects:
+    - "/Cylinder"
+    - "/Cuboid"
+    - "/Sphere"
+
+  # Cinemática discreta y límites articulares seguros (grados)
+  step_degrees: 15.0            # Grados de avance por cada comando aceptado
+  joint_limits:
+    - [-170.0, 170.0]           # Límites Articulación 1 (Base)
+    - [-80.0, 80.0]             # Límites Articulación 2 (Hombro)
+    - [-110.0, 110.0]           # Límites Articulación 3 (Codo)
+
+  # Control de convergencia de posición
+  pos_tolerance_deg: 2.0        # Tolerancia angular para dar por terminado el movimiento
+  timeout_s: 3.5                # Tiempo límite para alcanzar objetivo antes de abortar
+
+  # Parámetros de la pinza y agarre (Grasping)
+  dist_agarre: 0.10             # Distancia máxima (metros) para capturar el objeto
+  gripper_closed_pos: 0.0       # Posición cerrada del motor (rad o m)
+  gripper_opened_pos: 0.045     # Posición abierta del motor (rad o m)
